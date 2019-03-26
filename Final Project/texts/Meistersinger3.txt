@@ -1,0 +1,3426 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="de">
+<!-- Template 413170.html generated Mon Mar 25 06:05:15 2019 -->
+<head>
+	<title>Kapitel 3 des Buches: Die Meistersinger von Nürnberg von Richard Wagner | Projekt Gutenberg</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="author" content="SPIEGEL ONLINE, Hamburg, Germany" />
+<meta name="copyright" content="SPIEGEL ONLINE, Hamburg, Germany" />
+<meta name="email" content="spiegel_online@spiegel.de" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="viewport" content="width=device-width" />
+<meta name="date" content="2006-04-26T16:34:00+0200" />
+<meta name="last-modified" content="2006-04-26T16:34:00+0200" />
+<meta property="og:locale" content="de_DE" />
+
+<meta name="spnet.relatedboxuse" content="false" />
+<meta name="description" content="Dritter Aufzug      Erste Szene      (In Sachs Werkstatt. Kurzer Raum. Im Hintergrund die halb ge&ouml;ffnete Ladent&uuml;r, nach der Stra&szlig;e f&uuml;" /><meta name="news_keywords" content="Kultur, Gutenberg" />
+
+<link rel="alternate" type="application/rss+xml" title="SPIEGEL ONLINE RSS Schlagzeilen" href="https://www.spiegel.de/schlagzeilen/index.rss" />
+<link rel="alternate" type="application/rss+xml" title="SPIEGEL ONLINE RSS Kultur" href="https://www.spiegel.de/kultur/index.rss" />
+<script type="text/javascript">
+	<!--
+		var spMetadataAssetId ='413170';
+		var spArticleId = '413170';
+		var spMetadataAssetTypeId =1;
+		var spConfig = eval({
+  "disable": "false",
+  "disablehp": "false",
+  "disableArticleIds":   [
+    "941280",
+    "723622",
+    "961705",
+    "1160911",
+    "1162927",
+    "1163130",
+    "1160933",
+    "1162602",
+    "1161901",
+    "1149177",
+    "1162459",
+    "1144715",
+    "1161394",
+    "1158693",
+    "1151616",
+    "1163493",
+    "1161220",
+    "1146095",
+    "1159665",
+    "1161016",
+    "1152334",
+    "1148564",
+    "1153754",
+    "1157545",
+    "1149309",
+    "1131650",
+    "1124767",
+    "1148770",
+    "1149835",
+    "1144608",
+    "1135736",
+    "1130131",
+    "1121228",
+    "1123897",
+    "1116644",
+    "1112452",
+    "1117778",
+    "1112447",
+    "1108279",
+    "1162292",
+    "1162306",
+    "1784116",
+    "1790759"
+  ]
+});
+	// -->
+	</script>
+
+	<link rel="shortcut icon" href="https://www.spiegel.de/favicon.ico" type="image/ico" />
+<link rel="apple-touch-icon" sizes="57x57"   href="https://www.spiegel.de/static/sys/v12/logo/favicon/touch-icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="72x72"   href="https://www.spiegel.de/static/sys/v12/logo/favicon/touch-icon72.png" />
+<link rel="apple-touch-icon" sizes="76x76"   href="https://www.spiegel.de/static/sys/v12/logo/favicon/touch-icon76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.spiegel.de/static/sys/v12/logo/favicon/touch-icon114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.spiegel.de/static/sys/v12/logo/favicon/touch-icon120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.spiegel.de/static/sys/v12/logo/favicon/touch-icon144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.spiegel.de/static/sys/v12/logo/favicon/touch-icon152.png" />
+<!-- ##SPONTAG: CSS## -->
+	<link rel="stylesheet" type="text/css" href="https://www.spiegel.de/layout/css/style-V8-67-qs.css" />
+	<script src="https://www.spiegel.de/layout/jscfg/https/global-V8-67-qs.js" type="text/javascript"></script>
+		<script src="https://www.spiegel.de/layout/js/https/javascript-V8-67-qs.js" type="text/javascript"></script>
+		<script src="https://www.spiegel.de/layout/js/https/interface-V8-67-qs.js" type="text/javascript"></script>
+		
+        <script src="https://www.spiegel.de/layout/js/https/netmind-V8-67-qs.js" type="text/javascript"></script>
+		<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+	<!--[if lte IE 8]>
+		<script src="https://www.spiegel.de/layout/js/https/respond_min-V8-67-qs.js" type="text/javascript"></script>
+	<![endif]-->
+	<script type="text/javascript">
+var spArticleId;
+var spConfig;
+var disableSP=false;
+var spSPDelay=4000;
+(function() {
+	if (typeof spArticleId != 'undefined' && typeof spConfig != 'undefined') {
+		disableArticleIds = String(spConfig.disableArticleIds).split(",");
+		disableSP = $.inArray(spArticleId, disableArticleIds) > -1;
+	}
+	var _sp_=function(n){function t(e){if(o[e])return o[e].exports;var r=o[e]={i:e,l:!1,exports:{}};return n[e].call(r.exports,r,r.exports,t),r.l=!0,r.exports}var o={};return t.m=n,t.c=o,t.i=function(n){return n},t.d=function(n,o,e){t.o(n,o)||Object.defineProperty(n,o,{configurable:!1,enumerable:!0,get:e})},t.n=function(n){var o=n&&n.__esModule?function(){return n["default"]}:function(){return n};return t.d(o,"a",o),o},t.o=function(n,t){return Object.prototype.hasOwnProperty.call(n,t)},t.p="",t(t.s=2)}([function(n,t){function o(n,t){e&&console[n].apply(console,["[bootstrap]"].concat(Array.prototype.slice.call(t)))}var e=!1;n.exports={debug:function(){o("debug",arguments)},info:function(){o("info",arguments)},time:function(){o("time",arguments)},warn:function(){o("warn",arguments)},error:function(){o("error",arguments)},useDefaults:function(){e=!0},DEBUG:1}},function(n,t,o){"use strict";function e(){D||(D=!0,z=h.config=h.config||{},s(),N=z.bootstrap&&z.bootstrap.contentControlCallback||z.content_control_callback,B=z.accountId||z.account_id||z.client_id||window.sp_cid,G=z.beacon&&z.beacon.contentControlEndpoint||z.content_control_beacon_endpoint||v.a,z.debug_level&&"OFF"!==z.debug_level.toString().toUpperCase()||z.debug&&z.debug.level&&"OFF"!==z.debug.level.toString().toUpperCase()?q=!0:window.location.search&&null!=window.location.search.match(/_sp_debug_level=(?!off|OFF)/)&&(q=!0),q&&m.useDefaults({defaultLevel:m.DEBUG}))}function r(n,t,e){function r(o,e){var r=new Image;r.src="//"+G+"/cct?v="+encodeURIComponent(v.b)+"&ct="+_+"&cid="+encodeURIComponent(B)+"&l="+encodeURIComponent(n.toString())+"&rc="+encodeURIComponent(t)+"&d0="+encodeURIComponent(i)+(o?"&d1="+encodeURIComponent(o):"")+(null==e?"":"&d2="+encodeURIComponent(e)),g.info("sending beacon: "+r.src),c&&c()}var i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",a=arguments[4],c=arguments[5];if(a){var d=e.lastIndexOf("."),u=e.lastIndexOf("/"),s=-1===d||u>d?e+".png":e.substring(0,d)+".png",l=new Image;l.addEventListener("load",function(){r("1",s)}),l.addEventListener("error",function(){o.i(f.a)(s,function(n,t,o){r("0",s+"::"+o)})}),l.src=s}else r()}function i(n,t,o,e){var r=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},a=arguments.length>5&&void 0!==arguments[5]&&arguments[5],c=function(){i(n,t,o,e,r,!0)};n(t,a?o:c,e,r)}function a(n,t,o,e){function r(o,r){t(o,n,r,e.enableImageLoad)}function i(t,r){o(t,n,r,e.enableImageLoad),e.onError&&e.onError(r)}var a=document.createElement("script");a.src=n,a.onload=function(){e.onLoad&&e.onLoad()},a.onerror=function(){function t(n){return o.indexOf(n)>-1}var o=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();t("mobi")||t("ipad")||t("android")||t("iphone")?i(C):t("exabot")?i(k):t("bingbot")||t("bingpreview")?i(U):t("googlebot")||t("adsbot-google")||t("mediapartners-google")?i(I):t("googleweblight")?i(O):window.location.host===w?i(E):window.location.host.indexOf(b)>-1?i(j):t("msie 10")||t("msie 9")||t("msie 8")?i(S):c(n,r,i)},document.head.appendChild(a),document.querySelector('script[src="'+n+'"]')||-1!==window.location.host.indexOf(b)||(g.info("Script not present"),r(x,n))}function c(n,t,e){o.i(f.a)(n,function(o,r,i,a){(o||r?t:e)(a,n+"::"+i)})}function d(n,t,o,e){if(F)return void u(R+"::"+n,o);r(L,n,t,o,e,function(){if(N){if(q){g.error("bootstrap locking",L,n,t,o,e);debugger}setTimeout(function(){N()},250)}})}function u(n,t,o,e){r(y,n,t,o,e)}function s(){h._networkListenerData||(h._networkListenerData=o.i(p.a)())}function l(n,t){e(),g.info("bootstrap called with",n,t),i(a,n,d,u,t)}Object.defineProperty(t,"__esModule",{value:!0});var f=o(4),p=o(5),v=o(3),g=o(0),m=void 0;m=o(0);var w=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),b=["o","p","t","i","m","i","z","e","l","y","p","r","e","v","i","e","w",".","c","o","m"].join(""),h=window._sp_||{},_=1,y=0,L=1,x="s",C="m",I="g",E="gw",O="gl",S="i",U="b",k="e",R="n",j="o",D=!1,F=!1,q=!1,z=void 0,N=void 0,B=void 0,G=void 0;window.addEventListener("beforeunload",function(){F=!0}),window._sp_=h,h.setupNetworkListeners=s,h.bootstrap=l,window.spBootstrap=l,t["default"]=h},function(n,t,o){o(0);n.exports=o(1)["default"]},function(n,t,o){"use strict";function e(n){return n.join("")}o.d(t,"b",function(){return r}),o.d(t,"a",function(){return i});var r=(o(0),"2.0.1003"),i=(e(["w","w","w",".","s","u","m","m","e","r","h","a","m","s","t","e","r",".","c","o","m"]),e(["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"]));e(["/","/","f","s","m","1","0","1","9",".","g","l","o","b","a","l",".","s","s","l",".","f","a","s","t","l","y",".","n","e","t","/","f","s","m","/","d","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","0","3","/","r","e","c","o","v","e","r","y","_","d","f","p","_","i","n","t","e","r","n","a","l","-","v","2",".","0",".","1","0","0","3",".","j","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","0","3","/","r","e","c","o","v","e","r","y","_","l","i","b","_","a","p","i","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","0","3",".","h","t","m","l"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","0","3","/","r","e","c","o","v","e","r","y","_","l","i","b","_","r","i","d","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","0","3",".","h","t","m","l"])},function(n,t,o){"use strict";function e(n,t){function o(n){try{return n&&n.timeStamp?n.timeStamp:window.performance.now()}catch(n){return Date.now()}}var e=arguments.length>2&&void 0!==arguments[2]?arguments[2]:window.location,l=arguments.length>3&&void 0!==arguments[3]?arguments[3]:window.navigator,f=document.createElement("a");if(f.href=n,"https:"===e.protocol&&f.protocol!==e.protocol)return r.error("protocol mismatch in https environment, standing down"),void t(!1,!1,f.protocol,u);var p=new XMLHttpRequest;try{p.open("GET",n)}catch(n){return void t(!0,!1,n.toString(),c,p)}var v=void 0,g=void 0;p.onloadstart=function(n){v=o(n)},p.onreadystatechange=function(n){if(4===this.readyState){g=o(n)-v;var e=0===this.status&&!1!==l.onLine,r="2"===this.status.toString()[0],c=void 0;return c=r?a:!1===l.onLine?s:i,void t(e,r,this.status+"::"+g,c,p)}};try{p.send()}catch(n){return void t(!0,!1,n.toString(),d,p)}}t.a=e;var r=o(0),i="n",a="nx",c="xo",d="xs",u="p",s="of"},function(n,t,o){"use strict";function e(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,t=[],o=[],e=r.bind(null,t),i=r.bind(null,o);return n.addEventListener("load",e,!0),n.addEventListener("error",i,!0),{load:{events:t,listener:e},error:{events:o,listener:i}}}function r(n,t){if(t.target){var o="string"==typeof t.target.tagName?t.target.tagName.toLowerCase():"",e="string"==typeof t.target.src?t.target.src:"";"iframe"!==o&&n.push({tagName:o,src:e})}}t.a=e;o(0)}]);
+	//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/2.0.1003/Ym9vdHN0cmFwLmpz.map
+	window._sp_ = window._sp_ || {};
+	window._sp_.setupNetworkListeners();
+	window._sp_.config = window._sp_.config || {};
+	window._sp_.config.account_id = 331;
+	window._sp_.config.fsm_endpoint = '//fsm2.spiegel.de';
+	window._sp_.config.enable_fsm_detection = true;
+	window._sp_.config.enable_fsm_network_detection = true;
+	window._sp_.config.content_control_callback = function() {};
+	window._sp_.config.mms_domain = 'spiegel-de.spiegel.de'; // 
+	window._sp_.config.msg_z_index = 9999999; // 
+	window._sp_.mms = window._sp_.mms || {};
+	window._sp_.mms.cmd = window._sp_.mms.cmd || [];
+	window._sp_.config.mms_client_data_callback = function(o) {};
+	window._sp_.mms.cmd.push(function() {
+	    window._sp_.mms.setTargeting("x", "y");
+	});
+	window._sp_.mms.cmd.push(function() {
+		if (!disableSP) {
+			setTimeout(function () {
+				window._sp_.mms.startMsg();
+			}, spSPDelay);
+		}
+	});
+	window._sp_.bootstrap( '/layout/js/http/messaging-V' + spnetENV_JS_VERSION +'.js');
+})();
+</script>
+
+	<script type="text/javascript">
+<!--
+	var ADI = new XADI(''); 
+
+	if (!ADI.disabled()) {
+		var GujAd = GujAd || {};
+		GujAd.cmd = GujAd.cmd || [];
+
+		!(function() {		
+			var gujadlinkCSS = spnetENV_SERVER + '/staticgen/data_imports/emstm/spiegel-www/' + (window.location.hash.indexOf('gujAd=1') > -1 ? 'preview.css' : 'live.css');
+			var c = document.createElement('link');
+			c.rel = 'stylesheet';
+			c.type = 'text/css';
+			c.href = gujadlinkCSS;
+			document.head.appendChild(c);				
+		})();
+		
+		GujAd.cmd.push(function() {
+			GujAd.getClient().setZone('kultur');
+			GujAd.getClient().addCustomParameter('spmtp', 'ap');
+			GujAd.getClient().addCustomParameter('spmurid', '1351');
+			GujAd.getClient().addCustomParameter('spmtid', '');
+			GujAd.getClient().addCustomParameter('spmard', 'a-413170');
+		});
+		
+	};
+
+	
+
+	ADI.setup(GujAd);
+
+	
+// -->
+</script> 
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Richard Wagner","item":"https:\/\/gutenberg.spiegel.de\/autor\/richard-wagner-617"},{"@type":"ListItem","position":2,"name":"Die Meistersinger von N\u00fcrnberg","item":"https:\/\/gutenberg.spiegel.de\/buch\/die-meistersinger-von-nurnberg-841\/3"}]}</script>
+<script type="text/javascript">
+		var dataLayer = window.dataLayer = window.dataLayer || [];
+	</script>
+	
+	<script type="text/javascript">
+	<!--
+		if (typeof SPLTCS != 'undefined') {
+			SPLTCS.importJsonLd();
+			SPLTCS.gtm.setPageInfo({
+										'type':			'article',
+								        'canonical': 	SPLTCS.fromJsonLd('url'),
+								        'owner': 		'spiegel.de',
+								        'environment': 	'web',
+								        'system':		'sd',
+								        'ivw_code':		'spon-www-22-1351'
+			});
+			SPLTCS.gtm.setPostInfo({
+			        					'id': 					SPLTCS.fromJsonLd('name'),
+			        					'headline': 			SPLTCS.fromJsonLd('headline'),        
+			        					'has_author': 			'no',
+			        					'authors': 				[],
+			        					'source':				[],
+			        					'tags': 				SPLTCS.fromJsonLd('keywords'),
+			        					'published_dateTime': 	SPLTCS.fromJsonLd('datePublished'),
+			        					'edited_dateTime': 		SPLTCS.fromJsonLd('dateModified')
+			});
+			SPLTCS.gtm.inject();
+		} 
+	// -->
+	</script> 
+
+<base href="https://gutenberg.spiegel.de/gutenb/wagner/mstrsing/" /><link rel="stylesheet" type="text/css" href="https://gutenberg.spiegel.de/gutenb/css/drama.css" />
+<link rel="canonical" href="https://gutenberg.spiegel.de/buch/die-meistersinger-von-nurnberg-841/3"><link rel="prev" href="https://gutenberg.spiegel.de/buch/die-meistersinger-von-nurnberg-841/2"></head>
+
+<body id="kultur" class="spBereich1351 article dt-www" >
+<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQWWTD&gtm_auth=2COoKPOPcz3_T-LHawG-Ew&gtm_preview=env-5&gtm_cookies_win=x"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+<iframe src="https://www.spiegel.de/static/sys/pixel.gif" name="spon_vdz_countframe" width="0" height="0" frameborder="0" style="display:none;"></iframe><div id="spSZM">
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript">
+var pathUrl = window.location.pathname; // Path URL to check if it is video page or not.
+var isVideoPage = false; // By default flag for video page set to false
+if (pathUrl.match(/video-\d+\.html$/)) {
+	isVideoPage = true; // Set isVideoPage flag to true if it is video page
+}
+if(!isVideoPage) {
+	var iam_data = {
+	"st":"spiegel", // site/domain
+	"cp":"spon-www-22-1351", // code
+	"sv":"ke",
+	"sc":"yes" // MCVD cookie
+	}
+	
+	iom.c(iam_data,1);
+	
+}
+</script>
+<!-- /SZM -->
+</div>
+
+<div style="position:absolute;top: -100px;left: 0px;">
+
+<script type="text/javascript"> 
+<!--
+
+spNm({
+	'sp.site': '1',
+	'sp.template': '1',
+	'sp.atyp': '1',
+	'sp.aid': '413170',
+	'sp.part': '1',
+	'sp.rubric': '1351',
+	'sp.channel': '22',
+	'sp.partmax': '1'
+});
+
+
+// -->
+</script>
+<noscript>
+	<img src="https://count.spiegel.de/nm_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />
+</noscript>
+</div>
+<div id="spOasTop">
+	<div class="gujAd oben" id="oben_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.writeAdScript('oben_1');
+	</script>
+</div>
+<br class="clearfix" />
+</div>
+<div id="wrapper">
+			
+			<div id="wrapper-shadow">
+			<div id="wrapper-content">
+				<div id="header" data-sponlytics-area="header">
+	<div class="header-top clearfix" id="js-sticky-header">
+	<div class="clearfix">
+		
+		<ul class="meta-top no-js">
+			<li class="js-hamburger nav-item"><i class="hamburger-icon" title="Menü"></i></li>
+		</ul>
+		
+		<ul class="header-logo">
+			<li><a href="https://www.spiegel.de/" class="logo-spon"></a></li>
+			<li><a href="https://www.spiegel.de/plus/" class="logo-spiegel-plus"></a></li>
+		</ul>
+		<div class="search-login-links clearfix">
+			<i class="search-icon"></i>
+			<div class="login-links">
+				<noscript><a href="https://www.spiegel.de/meinspiegel/" class="button" >Mein SPIEGEL</a></noscript>
+			</div>
+			<div class="login-context popup-layer-skin"></div>
+		</div>
+		<script type="text/javascript">
+			<!--
+				spUpdateMSLoginLinks();
+			// -->
+		</script>
+	</div></div> <div class="header-main clearfix">
+
+	<ul class="meta-top list-inline-block clearfix no-js">
+		<li class="js-hamburger nav-item"><i class="hamburger-icon"></i><span>Men&uuml;</span></li>
+	<li class="nav-item align-left"   data-cid="20"><a href="https://www.spiegel.de/politik/"       class="">Politik</a></li>
+		<li class="nav-item align-left" data-cid="1340"><a href="https://www.spiegel.de/thema/meinung/" class="">Meinung</a></li>
+		<li class="nav-item align-left"   data-cid="21"><a href="https://www.spiegel.de/wirtschaft/"    class="">Wirtschaft</a></li>
+		<li class="nav-item align-left"   data-cid="10"><a href="https://www.spiegel.de/panorama/"      class="">Panorama</a></li>
+		<li class="nav-item align-left"   data-cid="19"><a href="https://www.spiegel.de/sport/"         class="">Sport</a></li>
+		<li class="nav-item align-right"  data-cid="22"><a href="https://www.spiegel.de/kultur/"        class="active">Kultur</a></li>
+		<li class="nav-item align-right"  data-cid="23"><a href="https://www.spiegel.de/netzwelt/"      class="">Netzwelt</a></li>
+		<li class="nav-item align-right"  data-cid="24"><a href="https://www.spiegel.de/wissenschaft/"  class="">Wissenschaft</a></li>
+		<li class="nav-item"><a name="meta-top-more" class="js-hamburger-more meta-top-more">mehr&nbsp;<i class="fa fa-play fa-rotate-90" aria-hidden="true"></i></a></li>
+	</ul>
+	
+	<ul class="meta-nav list-inline-block clearfix">
+		<li class="list-float-left current-channel-name"><a href="https://www.spiegel.de/kultur/" class="current-channel-name">Kultur</a></li>
+			<li class="nav-item list-float-right">
+			<a href="https://abo.spiegel.de/?b=SPOHNAVABO&amp;utm_source=spon&amp;utm_medium=text&amp;utm_content=SPOHNAVABO&amp;utm_campaign=navigationsleiste" target="_blank">Abo</a></li>
+		<li class="nav-item list-float-right">DAX <!-- html_126726 -->
+<a href="https://boersen.manager-magazin.de/mm/kurse_einzelkurs_uebersicht.htn?i=159096">
+				11.410,84</a><span>&#448;</span></li>
+		<li class="nav-item list-float-right top-news"><a href="https://www.spiegel.de/schlagzeilen/">Schlagzeilen</a><span>&#448;</span></li>
+	</ul>
+	
+	
+	
+	<div class="js-main-navigation clearfix" lang="de" data-cid="22">
+	
+	<div class="top-navigation clearfix">
+	
+		<ul class="list-float meta-home clearfix">
+			<li class="nav-item list-float-left js-hamburger"><i class="hamburger-icon" title="Menü"></i></li>
+			<li class="nav-item list-float-left"><a href="https://www.spiegel.de/">Nachrichten</a></li>
+			<li class="nav-item list-float-left"><a href="https://www.spiegel.de/schlagzeilen/">Schlagzeilen</a></li>
+		</ul>
+		
+		<ul class="list-float meta-sub-nav clearfix">
+			<li class="nav-item list-float-left"><a href="https://www.spiegel.de/nachrichtenarchiv/">Nachrichtenarchiv</a></li>
+			<li class="nav-item list-float-left"><a href="https://www.spiegel.de/dienste/a-902432.html">Newsletter</a></li>
+			<li class="nav-item list-float-left"><a href="https://www.spiegel.de/dienste/a-634260.html">RSS</a></li>
+			<li class="nav-item list-float-left"><a href="https://www.spiegel.de/dienste/a-634549.html">Mobil</a></li>
+			<li class="nav-item list-float-left"><a href="https://www.spiegel.de/multimedia/" class="with-sub-ul">Multimedia</a>
+				<ul class="sub-ul">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					<li><a href="https://www.spiegel.de/story/">Story</a></li>
+					<li><a href="https://www.spiegel.de/fotostrecken/">Fotostrecken</a></li>
+					<li><a href="https://www.spiegel.de/multimedia/">Infografiken</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+
+	<ul class="channel-nav nav-1">
+		<li class="clearfix" data-cid="20">
+	<a href="https://www.spiegel.de/politik/" title="Politik" class="with-sub-ul">Politik</a><a name="show-politik" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Politik"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/politik/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/politik/deutschland/" title="Deutschland">Deutschland</a></li>
+					<li>
+							<a href="https://www.spiegel.de/politik/ausland/" title="Ausland">Ausland</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/eu/" title="Europa">Europa</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/meinung/" title="Meinung">Meinung</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_41792 -->
+</ul>
+				</li>
+			</ul>
+	</li>													<li class="clearfix" data-cid="1340">
+	<a href="https://www.spiegel.de/thema/meinung/" title="Meinung" class="">Meinung</a></li>													<li class="clearfix" data-cid="1402">
+	<a href="https://www.spiegel.de/plus/" title="SPIEGEL+" class="">SPIEGEL+</a></li>													<li class="clearfix" data-cid="21">
+	<a href="https://www.spiegel.de/wirtschaft/" title="Wirtschaft" class="with-sub-ul">Wirtschaft</a><a name="show-wirtschaft" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Wirtschaft"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/wirtschaft/">Übersicht</a></li>
+					<li>
+							<a href="https://boersen.manager-magazin.de/spon/" target="_blank" title="Börse">Börse</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wirtschaft/service/" title="Verbraucher & Service">Verbraucher & Service</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html" title="Versicherungen">Versicherungen</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wirtschaft/unternehmen/" title="Unternehmen & Märkte">Unternehmen & Märkte</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wirtschaft/soziales/" title="Staat & Soziales">Staat & Soziales</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/young_money/" title="Young-Money-Blog">Young-Money-Blog</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/weltwirtschaftsforum_in_davos_2019/" title="Weltwirtschaftsforum in Davos 2019">Weltwirtschaftsforum in Davos 2019</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_41793 -->
+<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="https://www.spiegel.de/wirtschaft/service/brutto-netto-rechner-was-von-lohn-und-gehalt-uebrig-bleibt-a-223811.html" title="Brutto-Netto-Rechner 2019: Was von Ihrem Gehalt übrig bleibt" class="text-link lp-text-link-int">Brutto-Netto-Rechner</a>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=4529135480&iu=/6032/Clickcommand/clickcommand" rel="nofollow" title="Anzeige">Jobsuche</a>
+</li></ul>
+				</li>
+			</ul>
+	</li>													<li class="clearfix" data-cid="10">
+	<a href="https://www.spiegel.de/panorama/" title="Panorama" class="with-sub-ul">Panorama</a><a name="show-panorama" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Panorama"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/panorama/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/panorama/justiz/" title="Justiz">Justiz</a></li>
+					<li>
+							<a href="https://www.spiegel.de/panorama/leute/" title="Leute">Leute</a></li>
+					<li>
+							<a href="https://www.spiegel.de/panorama/gesellschaft/" title="Gesellschaft">Gesellschaft</a></li>
+					<li>
+							<a href="https://www.spiegel.de/story/" title="Multimedia-Reportagen">Multimedia-Reportagen</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/elterncouch/" title="Elterncouch">Elterncouch</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_41794 -->
+<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=4893015041&iu=/6032/Clickcommand/clickcommand" rel="follow" title="Anzeige">LOTTO 6aus49</a>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=4893012428&iu=/6032/Clickcommand/clickcommand" rel="follow" title="Anzeige">Eurojackpot</a>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=4892302027&iu=/6032/Clickcommand/clickcommand" rel="follow" title="Anzeige">Glücksspirale</a>
+</li>
+<li>
+<a href="https://sportwetten.spiegel.de" rel="follow" title="Anzeige">Sportwetten</a>
+</li>
+<li>
+<a href="https://gutscheine.spiegel.de/" rel="follow" title="Anzeige">Gutscheine</a>
+</li></ul>
+				</li>
+			</ul>
+	</li>													<li class="clearfix" data-cid="19">
+	<a href="https://www.spiegel.de/sport/" title="Sport" class="with-sub-ul">Sport</a><a name="show-sport" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Sport"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/sport/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/fussball_bundesliga/" title="Bundesliga">Bundesliga</a></li>
+					<li>
+							<a href="https://www.spiegel.de/sport/fussball/fussball-live-liveticker-tabellen-und-statistiken-a-839944.html" title="Fußball-Liveticker">Fußball-Liveticker</a></li>
+					<li>
+							<a href="https://www.spiegel.de/sport/fussball/bundesliga-noten-das-ist-der-spieler-index-von-spiegel-online-a-1162193.html" title="Spielerindex SPIX">Spielerindex SPIX</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/champions_league/" title="Champions League">Champions League</a></li>
+					<li>
+							<a href="https://www.spiegel.de/sport/fussball/" title="Fußball-News">Fußball-News</a></li>
+					<li>
+							<a href="https://tippspiel.spiegel.de" title="Fußball-Tippspiel">Fußball-Tippspiel</a></li>
+					<li>
+							<a href="https://www.spiegel.de/sport/formel1/" title="Formel 1">Formel 1</a></li>
+					<li>
+							<a href="https://www.spiegel.de/sport/formel1/formel-1-live-ticker-ergebnisse-termine-fahrer-teams-a-958409.html" title="Formel-1-Liveticker">Formel-1-Liveticker</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/wintersport/" title="Wintersport">Wintersport</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_41795 -->
+<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="https://sportwetten.spiegel.de" rel="follow" title="Anzeige">Sportwetten</a>
+</li></ul>
+				</li>
+			</ul>
+	</li>													<li class="clearfix" data-cid="22">
+	<a href="https://www.spiegel.de/kultur/" title="Kultur" class="with-sub-ul">Kultur</a><a name="show-kultur" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Kultur"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/kultur/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/kultur/kino/" title="Kino">Kino</a></li>
+					<li>
+							<a href="https://www.spiegel.de/kultur/musik/" title="Musik">Musik</a></li>
+					<li>
+							<a href="https://www.spiegel.de/kultur/tv/" title="TV">TV</a></li>
+					<li>
+							<a href="https://www.spiegel.de/kultur/literatur/" title="Literatur">Literatur</a></li>
+					<li>
+							<a href="http://gutenberg.spiegel.de" title="Gutenberg">Gutenberg</a></li>
+					<li>
+							<a href="https://www.spiegel.de/kultur/bestseller-buecher-belletristik-sachbuch-auf-spiegel-liste-a-458623.html" title="Bestseller">Bestseller</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/buchrezensionen/" title="Buchrezensionen">Buchrezensionen</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_41796 -->
+</ul>
+				</li>
+			</ul>
+	</li>													<li class="clearfix" data-cid="781">
+	<a href="https://www.spiegel.de/video/" title="Video" class="">Video</a></li>													<li class="clearfix" data-cid="1412">
+	<a href="https://www.spiegel.de/thema/podcasts_von_spiegel_online/" title="Podcast" class="">Podcast</a></li>													<li class="clearfix" data-cid="23">
+	<a href="https://www.spiegel.de/netzwelt/" title="Netzwelt" class="with-sub-ul">Netzwelt</a><a name="show-netzwelt" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Netzwelt"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/netzwelt/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/netzwelt/netzpolitik/" title="Netzpolitik">Netzpolitik</a></li>
+					<li>
+							<a href="https://www.spiegel.de/netzwelt/web/" title="Web">Web</a></li>
+					<li>
+							<a href="https://www.spiegel.de/netzwelt/gadgets/" title="Gadgets">Gadgets</a></li>
+					<li>
+							<a href="https://www.spiegel.de/netzwelt/games/" title="Games">Games</a></li>
+					<li>
+							<a href="https://www.spiegel.de/netzwelt/apps/" title="Apps">Apps</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/datenschutz/" title="Datenschutz im Netz">Datenschutz im Netz</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/digitale_zukunft/" title="Digitale Zukunft">Digitale Zukunft</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_41797 -->
+</ul>
+				</li>
+			</ul>
+	</li>													</ul><ul class="channel-nav nav-2">
+			<li class="clearfix" data-cid="24">
+	<a href="https://www.spiegel.de/wissenschaft/" title="Wissenschaft" class="with-sub-ul">Wissenschaft</a><a name="show-wissenschaft" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Wissenschaft"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/wissenschaft/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wissenschaft/mensch/" title="Mensch">Mensch</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wissenschaft/natur/" title="Natur">Natur</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wissenschaft/technik/" title="Technik">Technik</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wissenschaft/weltall/" title="Weltall">Weltall</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wissenschaft/medizin/" title="Medizin">Medizin</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wissenschaft/datenlese/" title="Datenlese">Datenlese</a></li>
+					<li>
+							<a href="https://www.spiegel.de/wissenschaft/uebermorgen/" title="ÜberMorgen">ÜberMorgen</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_41798 -->
+<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="https://www.spiegel.de/wissenschaft/spiele/sudoku-online-kostenlos-spielen-a-994416.html" title="">Sudoku</a>
+</li>
+<!--<li><a title=""  href="https://www.spiegel.de/wissenschaft/mensch/kenken-kostenlos-online-spielen-a-994418.html">Kenken</a></li>-->
+<!-- <li><a title=""  href="https://www.spiegel.de/wissenschaft/spiele/zahlenraetsel-street-online-und-kostenlos-spielen-a-994419.html">Street</a></li> --></ul>
+				</li>
+			</ul>
+	</li>													<li class="clearfix" data-cid="980">
+	<a href="https://www.spiegel.de/gesundheit/" title="Gesundheit" class="with-sub-ul">Gesundheit</a><a name="show-gesundheit" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Gesundheit"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/gesundheit/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/gesundheit/diagnose/" title="Diagnose &amp; Therapie">Diagnose &amp; Therapie</a></li>
+					<li>
+							<a href="https://www.spiegel.de/gesundheit/ernaehrung/" title="Ernährung & Fitness">Ernährung & Fitness</a></li>
+					<li>
+							<a href="https://www.spiegel.de/gesundheit/psychologie/" title="Psychologie">Psychologie</a></li>
+					<li>
+							<a href="https://www.spiegel.de/gesundheit/sex/" title="Sex &amp; Partnerschaft">Sex &amp; Partnerschaft</a></li>
+					<li>
+							<a href="https://www.spiegel.de/gesundheit/schwangerschaft/" title="Schwangerschaft &amp; Kind">Schwangerschaft &amp; Kind</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_103236 -->
+<li>
+<a href="https://www.spiegel.de/gesundheit/ernaehrung/bmi-rechner-so-ermitteln-sie-ihren-body-mass-index-a-824673.html" title="BMI-Rechner: So ermitteln Sie Ihren Body-Mass-Index" class="text-link lp-text-link-int">BMI-Rechner</a>
+</li>
+<li>
+<a href="https://www.spiegel.de/gesundheit/ernaehrung/kalorienrechner-so-ermitteln-sie-ihren-optimalen-kalorienverbrauch-a-832713.html" title="Kalorienrechner: So ermitteln Sie ihren optimalen Kalorienverbrauch" class="text-link lp-text-link-int">Kalorienrechner</a>
+</li>
+<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=4529079537&iu=/6032/Clickcommand/clickcommand" title="Anzeige">Arztsuche</a>
+</li></ul>
+				</li>
+			</ul>
+	</li>													<li class="clearfix" data-cid="792">
+	<a href="https://www.spiegel.de/einestages/" title="einestages" class="with-sub-ul">einestages</a><a name="show-einestages" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in einestages"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/einestages/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/einestages/thema/zeitzeugen/" title="Zeitzeugen">Zeitzeugen</a></li>
+					<li>
+							<a href="https://www.spiegel.de/einestages/thema/erster_weltkrieg/" title="Erster Weltkrieg">Erster Weltkrieg</a></li>
+					<li>
+							<a href="https://www.spiegel.de/einestages/thema/zweiter_weltkrieg/" title="Zweiter Weltkrieg">Zweiter Weltkrieg</a></li>
+					<li>
+							<a href="https://www.spiegel.de/einestages/thema/ddr/" title="DDR">DDR</a></li>
+					<li>
+							<a href="https://www.spiegel.de/einestages/thema/fotografie/" title="Fotografie">Fotografie</a></li>
+					<li>
+							<a href="https://www.spiegel.de/einestages/thema/film/" title="Film">Film</a></li>
+					<li>
+							<a href="https://www.spiegel.de/einestages/thema/musik/" title="Musik">Musik</a></li>
+					<li>
+							<a href="https://www.spiegel.de/einestages/archiv.html" title="Archiv">Archiv</a></li>
+					</ul>
+			</li>
+		
+			</ul>
+	</li>													<li class="clearfix" data-cid="844">
+	<a href="https://www.spiegel.de/karriere/" title="KarriereSPIEGEL" class="">KarriereSPIEGEL</a></li>													<li class="clearfix" data-cid="989">
+	<a href="https://www.spiegel.de/lebenundlernen/" title="Leben und Lernen" class="with-sub-ul">Leben und Lernen</a><a name="show-lebenundlernen" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Leben und Lernen"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/lebenundlernen/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/lebenundlernen/schule/" title="Schule">Schule</a></li>
+					<li>
+							<a href="https://www.spiegel.de/lebenundlernen/uni/" title="Uni">Uni</a></li>
+					<li>
+							<a href="https://www.spiegel.de/lebenundlernen/job/" title="Job">Job</a></li>
+					</ul>
+			</li>
+		
+			</ul>
+	</li>													<li class="clearfix" data-cid="982">
+	<a href="https://www.bento.de/" target="_blank" title="bento" class="">bento</a></li>													<li class="clearfix" data-cid="140">
+	<a href="https://www.spiegel.de/reise/" title="Reise" class="with-sub-ul">Reise</a><a name="show-reise" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Reise"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/reise/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/reise/staedte/" title="Städtereisen">Städtereisen</a></li>
+					<li>
+							<a href="https://www.spiegel.de/reise/deutschland/" title="Deutschland">Deutschland</a></li>
+					<li>
+							<a href="https://www.spiegel.de/reise/europa/" title="Europa">Europa</a></li>
+					<li>
+							<a href="https://www.spiegel.de/reise/fernweh/" title="Fernweh">Fernweh</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/australien_reisen/" title="Australien-Reisen">Australien-Reisen</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_41800 -->
+</ul>
+				</li>
+			</ul>
+	</li>													<li class="clearfix" data-cid="139">
+	<a href="https://www.spiegel.de/auto/" title="Mobilität" class="with-sub-ul">Mobilität</a><a name="show-mobilität" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Mobilität"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/auto/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/auto/fahrberichte/" title="Tests">Tests</a></li>
+					<li>
+							<a href="https://www.spiegel.de/auto/fahrkultur/" title="Fahrkultur">Fahrkultur</a></li>
+					</ul>
+			</li>
+		
+			</ul>
+	</li>													<li class="clearfix" data-cid="1207">
+	<a href="https://www.spiegel.de/stil/" title="Stil" class="with-sub-ul">Stil</a><a name="show-stil" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Stil"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/stil/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/stil_design/" title="Design">Design</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/stil_mode/" title="Mode">Mode</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/stil_kochen/" title="Kochen">Kochen</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/stil_reisen/" title="Reisen">Reisen</a></li>
+					<li>
+							<a href="https://www.spiegel.de/thema/stil_hotels/" title="Hotels">Hotels</a></li>
+					<li>
+							<a href="https://www.spiegel.de/stil/s-magazin/" title="S-Magazin">S-Magazin</a></li>
+					</ul>
+			</li>
+		
+			<li class="list-float-left">
+					<ul class="nav-channel-partner-entry">
+						<!-- html_114081 -->
+</ul>
+				</li>
+			</ul>
+	</li>													</ul><ul class="channel-nav nav-3">
+			<li class="clearfix" data-cid="1400">
+	<a href="https://www.spiegel.de/extra/backstage/" title="Backstage" class="">Backstage</a></li>													<li class="clearfix" data-cid="676">
+	<a href="https://www.spiegel.de/international/" title="International" class="with-sub-ul">English</a><a name="show-international" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Subsections of International"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/international/">Front Page</a></li>
+					<li>
+							<a href="https://www.spiegel.de/international/world/" title="World">World</a></li>
+					<li>
+							<a href="https://www.spiegel.de/international/europe/" title="Europe">Europe</a></li>
+					<li>
+							<a href="https://www.spiegel.de/international/germany/" title="Germany">Germany</a></li>
+					<li>
+							<a href="https://www.spiegel.de/international/business/" title="Business">Business</a></li>
+					<li>
+							<a href="https://www.spiegel.de/international/zeitgeist/" title="Zeitgeist">Zeitgeist</a></li>
+					<li>
+							<a href="https://www.spiegel.de/international/tomorrow/" title="BeyondTomorrow">BeyondTomorrow</a></li>
+					<li>
+							<a href="https://www.spiegel.de/international/a-1072062.html" title="Newsletter">Newsletter</a></li>
+					</ul>
+			</li>
+		
+			</ul>
+	</li>													<li class="clearfix" data-cid="1401">
+	<a href="http://www.spiegel-akademie.de" target="_blank" title="SPIEGEL AKADEMIE" class="">SPIEGEL AKADEMIE</a></li>													<li class="clearfix" data-cid="1350">
+	<a href="http://www.spiegel-live.de/" target="_blank" title="DER SPIEGEL live" class="">DER SPIEGEL live</a></li>													<li class="clearfix" data-cid="9">
+	<a href="https://www.spiegel.de/spiegel/" title="DER SPIEGEL" class="with-sub-ul">DER SPIEGEL</a><a name="show-derspiegel" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in DER SPIEGEL"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li>
+							<a href="https://www.spiegel.de/spiegel/" title="Übersicht">Übersicht</a></li>
+					<li>
+							<a href="https://magazin.spiegel.de/" title="Digitaler SPIEGEL">Digitaler SPIEGEL</a></li>
+					<li>
+							<a href="https://www.spiegel.de/spiegel/print/" title="Titelbilder & Heftarchive">Titelbilder & Heftarchive</a></li>
+					<li>
+							<a href="https://abo.spiegel.de/?b=SPOHNAVABO&amp;utm_source=spon&amp;utm_medium=text&amp;utm_content=SPOHNAVABO&amp;utm_campaign=navigationsleiste" target="_blank" title="Abo-Angebote">Abo-Angebote</a></li>
+					<li>
+							<a href="https://www.spiegel.de/shop" title="Shop">Shop</a></li>
+					</ul>
+			</li>
+		
+			</ul>
+	</li>													<li class="clearfix" data-cid="27">
+	<a href="https://www.spiegel.de/sptv/" title="SPIEGEL TV" class="with-sub-ul">SPIEGEL TV</a><a name="show-spiegeltv" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in SPIEGEL TV"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/sptv/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/sptv/magazin/" title="SPIEGEL TV Magazin">SPIEGEL TV Magazin</a></li>
+					<li>
+							<a href="https://www.spiegel.de/sptv/reportage/" title="SPIEGEL TV Reportage">SPIEGEL TV Reportage</a></li>
+					<li>
+							<a href="https://www.spiegel.de/sptv/programm/" title="SPIEGEL TV Programm">SPIEGEL TV Programm</a></li>
+					<li>
+							<a href="http://www.spiegel-geschichte.tv" target="_blank" title="SPIEGEL Geschichte">SPIEGEL Geschichte</a></li>
+					<li>
+							<a href="http://www.spiegelwissen.tv" target="_blank" title="SPIEGEL TV Wissen">SPIEGEL TV Wissen</a></li>
+					<li>
+							<a href="https://www.spiegel.tv" target="_blank" title="SPIEGEL.TV">SPIEGEL.TV</a></li>
+					</ul>
+			</li>
+		
+			</ul>
+	</li>													<li class="clearfix" data-cid="35">
+	<a href="https://www.spiegel.de/forum/" title="Forum" class="with-sub-ul">Forum</a><a name="show-forum" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Forum"></a>
+		<ul class="js-channel-sub-nav list-float clearfix">
+			<li><span class="close-button"></span></li>
+			
+			
+			
+			<li class="list-float-left">
+				<ul class="nav-channel-sub-entry">
+					<li><div class="nav-channel-arrow-left"></div></li>
+					
+					<li><a href="https://www.spiegel.de/forum/">Übersicht</a></li>
+					<li>
+							<a href="https://www.spiegel.de/forum/votes/a-589480.html" title="Votes">Votes</a></li>
+					<li>
+							<a href="https://www.spiegel.de/extra/spon-forum-so-wollen-wir-debattieren-a-1207779.html" title="Netiquette">Netiquette</a></li>
+					</ul>
+			</li>
+		
+			</ul>
+	</li>													<li class="clearfix" data-cid="826">
+	<a href="https://www.spiegel.de/thema/" title="Themen" class="">Themen</a></li>													<li class="clearfix" data-cid="NaN">
+			<span class="with-sub-ul js-show-sub-nav">Service</span>
+			<a name="show-service" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Bereiche in Service"></a>
+			<ul class="js-channel-sub-nav">
+				<li><span class="close-button"></span></li>
+				<li>
+					<div class="nav-channel-arrow-left"></div>
+				</li>
+				<!-- html_126935 -->
+<li>
+<a href="https://www.spiegel.de/auto/aktuell/benzinpreisvergleich-die-guenstigste-tankstelle-in-ihrer-naehe-a-185826.html" onclick="setGaEventRessort('service', 'benzinpreise');">
+<span class="nav-channel-sub-entry">Benzinpreis</span>
+</a>
+</li>
+<li>
+<a href="https://www.spiegel.de/auto/aktuell/bussgeldrechner-was-zu-schnelles-fahren-kostet-a-244772.html" onclick="setGaEventRessort('service', 'bussgeldrechner');">
+<span class="nav-channel-sub-entry">Bußgeldrechner</span>
+</a>
+</li>
+<li>
+<a href="http://www.amazon.de/b/ref=amb_link_51544565_1?ie=UTF8&node=4206085031&pf_rd_m=A3JWKAKR8XB7XF&pf_rd_s=center-1&pf_rd_r=0Y7KSJRQ0GD1TQVBZFBX&pf_rd_t=1401&pf_rd_p=515157807&pf_rd_i=1000127753&tag=wwwspiegelde-21" onclick="setGaEventRessort('service', 'buecher bestellen');">
+<span class="nav-channel-sub-entry">Bücher bestellen</span>
+</a>
+</li>
+<li>
+<a href="https://www.spiegel.de/lebenundlernen/schule/ferien-schulferien-und-feiertage-a-193925.html" onclick="setGaEventRessort('service', 'ferientermine');">
+<span class="nav-channel-sub-entry">Ferientermine</span>
+</a>
+</li>
+<li>
+<a href="https://www.spiegel.de/lebenundlernen/uni/studium-tipps-und-hilfe-fuer-uni-und-studentenleben-a-640620.html" onclick="setGaEventRessort('service', 'uni-tools');">
+<span class="nav-channel-sub-entry">Uni-Tools</span>
+</a>
+</li>
+<li>
+<a href="https://boersen.manager-magazin.de/spon/devisen_uebersicht.htn#rechner" onclick="setGaEventRessort('service', 'waehrungsrechner');">
+<span class="nav-channel-sub-entry">Währungsrechner</span>
+</a>
+</li>
+<li>
+<a href="https://www.spiegel.de/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html" onclick="setGaEventRessort('service', 'versicherungen');">
+<span class="nav-channel-sub-entry">Versicherungen</span>
+</a>
+</li></ul>
+		</li>
+
+		<!-- html_130389 -->
+<li class="spTrenner clearfix">
+	<a href="https://gutscheine.spiegel.de" class="with-sub-ul" target="_blank">Gutscheine <span class="light">(Anzeige)</span></a>
+	<a name="gutscheine" class="fa fa-chevron-right js-show-sub-nav" aria-hidden="true" title="Gutscheine"></a>
+	<ul class="js-channel-sub-nav">
+				<li><span class="close-button"></span></li>
+				<li><div class="nav-channel-arrow-left"></div></li>
+				<li><a href="https://gutscheine.spiegel.de/amazon-gutscheincodes" title="Amazon"><span class="nav-channel-sub-entry">Amazon</span></a></li>
+				<li><a href="https://gutscheine.spiegel.de/otto-gutscheincodes" title="Mytoys"><span class="nav-channel-sub-entry">Otto</span></a></li>
+				<li><a href="https://gutscheine.spiegel.de/douglas-gutscheincodes" title="Douglas"><span class="nav-channel-sub-entry">Douglas</span></a></li>
+
+				<li><a href="https://gutscheine.spiegel.de/expedia-gutscheincodes" title="Expedia"><span class="nav-channel-sub-entry">Expedia</span></a></li>
+				<li><a href="https://gutscheine.spiegel.de/about-you-gutscheincodes" title="About You"><span class="nav-channel-sub-entry">About You</span></a></li>
+				<li><a href="https://gutscheine.spiegel.de/peter-hahn-gutscheincodes" title="Peter Hahn"><span class="nav-channel-sub-entry">Peter Hahn</span></a></li>
+				<li><a href="https://gutscheine.spiegel.de/lidl-gutschein" title="Lidl"><span class="nav-channel-sub-entry">Lidl</span></a></li>
+				<li><a href="https://gutscheine.spiegel.de/notebooksbilliger-gutscheincodes" title="notebooksbilliger.de"><span class="nav-channel-sub-entry">notebooksbilliger.de</span></a></li>
+
+
+	</ul>
+</li></ul>
+</div>
+<div class="header-search" id="js-header-search">
+		<div class="header-search-inner-wrap">
+			<span id="js-close-button">Abbrechen</span>
+			
+			
+			<form action="https://www.spiegel.de/suche/index.html" name="suchformbox" class="search-form-multiple form-large" method="get" onsubmit="return submitFormWithPage(1);">
+				<div class="search-input-submit clearfix">
+						<fieldset class="search-form-input">
+						    <input type="text" name="suchbegriff" value=""/>
+						    <input type="hidden" name="pageNumber" value="1"/>
+						</fieldset>
+						
+						<fieldset class="search-form-submit">
+							<input value="Suchen" title="Suchen" type="submit" />
+						 </fieldset>
+						 
+					</div>
+						
+						<fieldset>
+							<span class="select-fa">
+							     <select name="suchzeitraum" id="spSearchDate"
+							             onchange="document.suchformbox['fromDate'].focus(); spSynchDatumBis(document.suchformbox);">
+							         <option value="" selected="selected">Zeitraum</option>
+							
+							        <option value="all"	>alles</option>
+							        <option value="week" >letzte Woche</option>
+							        <option value="month" >letzter Monat</option>
+							        <option value="year" >letztes Jahr</option>
+							        <option value="ab2005" >seit 2005</option>
+							        <option value="2005" >vor 2005</option>
+							        <option value="2000" >vor 2000</option>
+							        <option value="1995" >vor 1995</option>
+							        <option value="1990" >vor 1990</option>
+							        <option value="1980" >vor 1980</option>
+							        <option value="1970" >vor 1970</option>
+							        <option value="1960" >vor 1960</option>
+							    </select>
+						    </span>
+						    
+						    <span class="select-fa">
+							    <select name="suchbereich" id="spSearchAttr">
+							        <option value="header,title,lead" >Überschrift und Vorspann</option>
+							        <option value="dokumenttext" selected="selected">Volltext</option>
+							        <option value="autor" >Autor</option>
+							    </select>
+						   </span>
+						   
+						    <input tabindex="4" name="fromDate" id="spSearchFromDate"
+						           onchange="document.suchformbox['suchzeitraum'].selectedIndex=0;"
+						           value=""
+						           maxlength="10" type="hidden" />
+						    <input tabindex="5" name="toDate" id="spSearchToDate"
+						           onchange="document.suchformbox['suchzeitraum'].selectedIndex=0;"
+						           value="" maxlength="10" type="hidden" />
+	
+							</fieldset>
+							
+							</form>
+
+		             <script type="text/javascript">
+	                    if (!document.all) { enableAllFields(); }
+		             </script>
+
+		</div> </div>
+</div> <div id="js-popup-layer" class="clearfix"></div>
+
+<div id="js-popout-videoplayer-background" class="popout-videoplayer-background popup-layer-skin">
+    <div class="popout-videoplayer-sidepanel">
+        <a href="javascript:spVideoPlayerFramework.spClosePopoutPlayer();" class="close-link">Video schließen</a>
+        <a href="javascript:spVideoPlayerFramework.spClosePopoutPlayer();" class="close-button"></a>
+        <h2 class="video-title">
+            <span id="js-popout-videoplayer-thema" class="headline-intro"></span>
+            <span id="js-popout-videoplayer-headline" class="headline"></span>
+        </h2>
+        <a href="javascript:spVideoPlayerFramework.spDisablePopoutPlayer();" class="disable-link">Deaktivieren</a>
+    </div>
+</div><div id="breadcrumb">
+		<ul class="breadcrumb-history list-float clearfix">
+			<li class="list-float-left">
+		<a href="https://www.spiegel.de/">Nachrichten</a></li>
+<li class="list-float-left">
+		<span class="fa fa-angle-right" aria-hidden="true"></span><a href="https://www.spiegel.de/kultur/">Kultur</a></li>
+<li class="list-float-left">
+		<span class="fa fa-angle-right" aria-hidden="true"></span><a href="http://gutenberg.spiegel.de" title="Projekt Gutenberg-DE">Gutenberg</a></li>
+<li class="list-float-left"><span class="fa fa-angle-right" aria-hidden="true"></span><h1 class="so-hdln">Projekt Gutenberg-DE</h1></li>
+			</ul>
+	
+	</div> <br class="clearfix" />
+</div>
+
+<div id="content-main" class="grid-article spFullScreen clearfix" data-sponlytics-area="at">
+	
+	<div class="spArticleContent">
+		<div class="gujAd mitte" id="mitte_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.writeAdScript('mitte_1');
+	</script>
+</div>
+<br class="clearfix" />
+		
+		<div id="js-article-column" class="column-both">
+						
+
+
+	<div class="article-section clearfix" data-sponlytics-area="box-article">
+		<div class="gujAd integrationteaser" id="integrationteaser_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.writeAdScript('integrationteaser_1');
+	</script>
+</div>
+<br class="clearfix" />
+		
+		
+<p>
+<!-- html_112308 -->
+<img alt="Projekt Gutenberg" src="https://www.spiegel.de/images/image-721290-custom-jmsp.png" style="margin:-30px 0 10px 0;"/>
+<br clear="all"/>
+<!-- html_18955 -->
+<div style="width: 855px; height: 61px; background: url(/img/gb_head.jpg);">
+	<div style="float: right; color: #ffffff; margin-right: 10px; margin-top: 10px;">Textsuche bei Gutenberg-DE:<br/>
+		<form method="get" action="/suche" style="width: 220px;"><input type="text" name="q" value="" style="float: left; width: 135px; height: 25px; margin-right: 5px;" /><input type="submit" value="Suchen" style="" /></form>
+	</div>
+</div>
+<div style="background-color: #0f72b3; width: 855px; height: 20px; color: #ffffff; font-weight: bold; text-align: center; padding-top: 5px; font-size: 14px;">
+<a style="color: white; margin-right: 12px; " href="/">Startseite</a>&nbsp;&nbsp;
+<a style="color: white; margin-right: 12px; " href="/genre">Genres</a>&nbsp;&nbsp; 
+<a style="color: white; margin-right: 12px; " href="/neuetexte">Neue Texte</a>&nbsp;&nbsp;
+<a style="color: white; margin-right: 12px; " href="/autor">Alle Autoren</a>&nbsp;&nbsp;
+<a style="color: white; margin-right: 12px; " href="/buch">Alle Werke</a>&nbsp;&nbsp;
+<a style="color: white; margin-right: 12px; " href="/tips">Lesetips</a>&nbsp;&nbsp;
+<a style="color: white; margin-right: 12px;" href="https://gutenberg.abc.de/" target="_blank">Shop</a>&nbsp;&nbsp;
+<a style="color: white; margin-right: 12px; " href="/information">Information</a>&nbsp;&nbsp;
+<a style="color: white; margin-right: 12px;" href="https://gutenberg.abc.de/content/9-datenschutzerklaerung">Datenschutz</a>&nbsp;&nbsp;
+<a style="color: white; " href="/impressum">Impressum</a>
+</div>
+<div style="background-color: #0f72b3; width: 855px; height: 20px; color: #ffffff; text-align: center; padding-top: 5px; padding-bottom: 5px; font-size: 14px;">
+Autoren A-Z:
+<a style="color: white; font-weight: bold;" href="/autor/a">A</a> | <a style="color: white; font-weight: bold;" href="/autor/b">B</a> | <a style="color: white; font-weight: bold;" href="/autor/c">C</a> | <a style="color: white; font-weight: bold;" href="/autor/d">D</a> | <a style="color: white; font-weight: bold;" href="/autor/e">E</a> | <a style="color: white; font-weight: bold;" href="/autor/f">F</a> | <a style="color: white; font-weight: bold;" href="/autor/g">G</a> | <a style="color: white; font-weight: bold;" href="/autor/h">H</a> | <a style="color: white; font-weight: bold;" href="/autor/i">I</a> | <a style="color: white; font-weight: bold;" href="/autor/j">J</a> | <a style="color: white; font-weight: bold;" href="/autor/k">K</a> | <a style="color: white; font-weight: bold;" href="/autor/l">L</a> | <a style="color: white; font-weight: bold;" href="/autor/m">M</a> | <a style="color: white; font-weight: bold;" href="/autor/n">N</a> | <a style="color: white; font-weight: bold;" href="/autor/o">O</a> | <a style="color: white; font-weight: bold;" href="/autor/p">P</a> | <a style="color: white; font-weight: bold;" href="/autor/q">Q</a> | <a style="color: white; font-weight: bold;" href="/autor/r">R</a> | <a style="color: white; font-weight: bold;" href="/autor/s">S</a> | <a style="color: white; font-weight: bold;" href="/autor/t">T</a> | <a style="color: white; font-weight: bold;" href="/autor/u">U</a> | <a style="color: white; font-weight: bold;" href="/autor/v">V</a> | <a style="color: white; font-weight: bold;" href="/autor/w">W</a> | <a style="color: white; font-weight: bold;" href="/autor/x">X</a> | <a style="color: white; font-weight: bold;" href="/autor/y">Y</a> | <a style="color: white; font-weight: bold;" href="/autor/z">Z</a> | <a style="color: white; font-weight: bold;" href="/autor">Alle</a></div>
+<style>
+    .gbbreadcrumb {
+        color: #999;
+        font-size: 10px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .gbbreadcrumb a, .gbbreadcrumb a:hover, .gbbreadcrumb h1 {
+        color: #999;
+        font-size: 10px;
+        font-weight: normal;
+        display: inline;
+    }
+    #breadcrumb {
+        display: none;
+    }
+</style>
+<div class="gbbreadcrumb">
+            <a href="/">Gutenberg</a> &gt; <a href="/autor/richard-wagner-617">Richard Wagner</a> &gt; <h1>Die Meistersinger von Nürnberg</h1>    </div>
+<b>Richard Wagner: Die Meistersinger von Nürnberg - Kapitel 3</b>
+<div id="metalabel" style="float: right; cursor: pointer; text-decoration: underline;" onclick="document.getElementById('metadata').style.visibility=document.getElementById('metadata').style.visibility=='hidden'?'visible':'hidden';">Quellenangabe</div>
+<div id="metadata" style="
+visibility: hidden; 
+position: absolute; 
+border: 1px solid #000000; 
+width: 250px; 
+left: 620px;
+background-color: #ffffff;
+padding: 5px;
+z-index: 100;">
+<table>
+<tr valign="top"><td><b>type</b></td><td>opera</td></tr><tr valign="top"><td><b>author</b></td><td>Richard Wagner</td></tr><tr valign="top"><td><b>title</b></td><td>Die Meistersinger von Nürnberg</td></tr><tr valign="top"><td><b>sender</b></td><td>Erich_Clemens@t-online.de</td></tr><tr valign="top"><td><b>created</b></td><td>19990520</td></tr><tr valign="top"><td><b>corrector</b></td><td>hille@abc.de</td></tr><tr valign="top"><td><b>note</b></td><td>mit Klassen fuer DRAMA versehen</td></tr><tr valign="top"><td><b>firstpub</b></td><td>1862</td></tr></table>
+<div style="float:right; text-decoration: underline; cursor: pointer;" onclick="document.getElementById('metadata').style.visibility='hidden';">Schlie&szlig;en</div>
+</div>
+<br/>
+<style>
+    ul.gbnav {
+        text-align: left;
+        display: inline;
+        margin: 0;
+        list-style: none;
+        -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    }
+    ul.gbnav li {
+        display: inline-block;
+        padding: 5px;
+        position: relative;
+        background: #eee;
+        cursor: pointer;
+        -webkit-transition: all 0.2s;
+        -moz-transition: all 0.2s;
+        -ms-transition: all 0.2s;
+        -o-transition: all 0.2s;
+        transition: all 0.2s;
+    }
+    ul.gbnav li:hover {
+        background: #ddd;
+    }
+    ul.gbnav li ul {
+        padding: 0;
+        position: absolute;
+        top: 15px;
+        left: -20px;
+        width: 350px;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transiton: opacity 0.2s;
+        -moz-transition: opacity 0.2s;
+        -ms-transition: opacity 0.2s;
+        -o-transition: opacity 0.2s;
+        -transition: opacity 0.2s;
+    }
+    ul.gbnav li ul li {
+        background: #eee;
+        display: block;
+        color: #fff;
+        margin-bottom: 0px;
+    }
+    ul.gbnav li ul li:hover { background: #ddd; }
+    ul.gbnav li ul li.active { background: #ddd; }
+    ul.gbnav li:hover ul {
+        display: block;
+        opacity: 1;
+        visibility: visible;
+    }
+</style>
+
+Navigation:
+<ul class="gbnav">
+    <li>Kapitel 3        <ul>
+    <li><a href="/buch/die-meistersinger-von-nurnberg-841/1">Kapitel 1</a></li><li><a href="/buch/die-meistersinger-von-nurnberg-841/2">Kapitel 2</a></li><li class="active"><a href="/buch/die-meistersinger-von-nurnberg-841/3">Kapitel 3</a></li>       </ul>
+    </li>
+</ul>
+
+
+<div id="gutenb">
+
+      <h3>Dritter Aufzug</h3>
+      <h4>Erste Szene</h4>
+      <p class="stage">(In Sachs Werkstatt. Kurzer Raum. Im Hintergrund die halb ge&ouml;ffnete Ladent&uuml;r, nach der Stra&szlig;e f&uuml;hrend. Rechts zur Seite eine Kammert&uuml;r. Links das nach der Gasse gehende Fenster, mit Blumenst&ouml;kken davor, zur Seite ein Werktisch. Sachs sitzt auf einem gro&szlig;en Lehnstuhle an diesem Fenster, durch welches die Morgensonne hell auf ihn hereinscheint:</p>
+      <p class="stage">Er hat vor sich auf dem Scho&szlig;e einen gro&szlig;en Folianten und ist im Lesen vertieft.</p>
+      <p class="stage">David zeigt sich, von der Stra&szlig;e kommend, unter der Ladent&uuml;r, er lugt herein, und da er Sachs gewahrt, f&auml;hrt er zur&uuml;ck. Er versichert sich aber, da&szlig; Sachs ihn nicht bemerkt, schl&uuml;pft herein, stellt seinen mitgebrachten Korb auf den hinteren Werktisch beim Laden und untersucht seinen Inhalt:</p>
+      <p class="stage">Er holt Blumen und B&auml;nder und kramt sie auf dem Tische aus, endlich findet er auf dem Grunde eine Wurst und einen Kuchen und l&auml;&szlig;t sich sogleich an, diese zu verzehren, als Sachs, der ihn fortw&auml;hrend nicht beachtet, mit starkem Ger&auml;usch eines der gro&szlig;en Bl&auml;tter des Folianten umwendet.)</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(f&auml;hrt zusammen, verbirgt das Essen und wendet sich zur&uuml;ck)</span>:
+      <br> Gleich, Meister! Hier!
+      <br> Die Schuh' sind abgegeben
+      <br> in Herrn Beckmessers Quartier.
+      <br> Mir war's, als rieft Ihr mich eben? 
+      <span class="regie">(Beiseite.)</span>
+      <br> Er tut, als s&auml;h' er mich nicht?
+      <br> Da ist er b&ouml;s', wenn er nicht spricht! &ndash;
+      <br> 
+      <span class="regie">(Er n&auml;hert sich sehr dem&uuml;tig langsam Sachs.)</span>
+      <br> Ach, Meister, wollt mir verzeih'n!
+      <br> Kann ein Lehrbub' vollkommen sein?
+      <br> Kenntet Ihr die Lene wie ich,
+      <br> dann verg&auml;bt Ihr mir sicherlich.
+      <br> Sie ist so gut, so sanft f&uuml;r mich
+      <br> und blickt mich oft an so innerlich.
+      <br> Wenn Ihr mich schlagt, streichelt sie mich
+      <br> und l&auml;chelt dabei holdseliglich.
+      <br> Mu&szlig; ich karieren, f&uuml;ttert sie mich
+      <br> und ist in allem gar liebelich.
+      <br> Nur gestern, weil der Junker versungen,
+      <br> hab ich den Korb ihr nicht abgerungen.
+      <br> Das schmerzte mich; und da ich fand,
+      <br> da&szlig; nachts einer vor dem Fenster stand
+      <br> und sang zu ihr und schrie wie toll,
+      <br> da hieb ich ihm den Buckel voll.
+      <br> Wie k&auml;m' nun da was Gro&szlig;es drauf an?
+      <br> Auch hat's uns'rer Liebe gar wohl getan.
+      <br> Die Lene hat mir eben alles erkl&auml;rt
+      <br> und zum Fest Blumen und B&auml;nder beschert.
+      <br> 
+      <span class="regie">(Er bricht in gr&ouml;&szlig;ere Angst aus.)</span>
+      <br> Ach, Meister, sprecht doch nur ein Wort!
+      <br> 
+      <span class="regie">(Beiseite.)</span> H&auml;tt' ich nur die Wurst und den Kuchen erst fort!</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(hat unbeirrt immer weitergelesen. Jetzt schl&auml;gt er den Folianten zu. Von dem Ger&auml;usch erschrickt David so, da&szlig; er strauchelt und unwillk&uuml;rlich vor Sachs auf die Knie f&auml;llt. Sachs sieht &uuml;ber das Buch, das er noch auf dem Scho&szlig;e beh&auml;lt, hinweg, &uuml;ber David, welcher immer auf den Knien furchtsam nach ihm aufblickt, hin und heftet seinen Blick unwillk&uuml;rlich auf den hinteren Werktisch).</span>
+      <br> 
+      <span class="regie">(Sehr leise):</span>
+      <br> Blumen und B&auml;nder seh' ich dort!
+      <br> Schaut hold und jugendlich aus!
+      <br> Wie kamen mir die ins Haus?</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(verwundert &uuml;ber Sachs' Freundlichkeit)</span>:
+      <br> Ei, Meister! &lsquo;s ist heut festlicher Tag;
+      <br> da putzt sich jeder, so sch&ouml;n er mag.</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(immer leise, wie f&uuml;r sich)</span>:
+      <br> W&auml;r' heut Hochzeitsfest?</p>
+      <p>
+      <span class="speaker">David:</span> Ja, k&auml;m's erst so weit, da&szlig; David die Lene freit!</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(immer wie zuvor)</span>:
+      <br> &lsquo;s war Polterabend, d&uuml;nkt mich doch?</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(f&uuml;r sich)</span>:
+      <br> Polterabend? &ndash; Da krieg' ich's wohl noch?
+      <br> 
+      <span class="regie">(Laut.)</span> Verzeiht das, Meister! Ich bitt', verge&szlig;t!
+      <br> Wir feiern ja heut' Johannisfest.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Johannisfest?</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(beiseite)</span>:
+      <br> H&ouml;rt er heut' schwer?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Kannst du dein Spr&uuml;chlein? Sag es her!</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(ist allm&auml;hlich zu stehen gekommen)</span>:
+      <br> Mein Spr&uuml;chlein? Denk', ich kann es gut. (Beiseite.)
+      <br> &lsquo;s setzt nichts! Der Meister ist wohlgemut! &ndash;
+      <br> 
+      <span class="regie">(Stark und grob.)</span>
+      <br> &raquo;Am Jordan Sankt Johannes stand&laquo; &ndash;</p>
+      <p>
+      <span class="speaker">Sachs:</span> Wa &ndash; was?</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(l&auml;chelnd)</span>:
+      <br> Verzeiht, das Gewirr! Mich machte der Polterabend irr.
+      <br> 
+      <span class="regie">(Er sammelt sich und stellt sich geh&ouml;rig auf)</span>
+      <br> &raquo;Am Jordan Sankt Johannes stand,
+      <br> all' Volk der Welt zu taufen;
+      <br> kam auch ein Weib aus fernem Land,
+      <br> von N&uuml;rnberg gar gelaufen;
+      <br> sein S&ouml;hnlein trug's zum Uferrand,
+      <br> empfing da Tauf' und Namen;
+      <br> doch als sie dann sich heimgewandt,
+      <br> nach N&uuml;rnberg wieder kamen,
+      <br> in deutschem Land gar bald sich fand's,
+      <br> da&szlig; wer am Ufer des Jordans
+      <br> Johannes war genannt,
+      <br> an der Pegnitz hie&szlig; der Hans.&laquo; 
+      <span class="regie">(Sich besinnend.)</span>
+      <br> Hans? Hans!
+      <br> Herr! Meister! 
+      <span class="regie">(Feurig.)</span> &lsquo;s ist heut Eu'r Namenstag!
+      <br> Nein! Wie man so was vergessen mag!
+      <br> Hier! Hier, die Blumen sind f&uuml;r Euch,
+      <br> die B&auml;nder &ndash; und was nur alles noch gleich?
+      <br> Ja, hier schaut! Meister, herrlicher Kuchen!
+      <br> M&ouml;chtet Ihr nicht auch die Wurst versuchen?</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(immer ruhig, ohne seine Stellung zu ver&auml;ndern)</span>:
+      <br> Sch&ouml;n Dank, mein Jung', behalt's f&uuml;r dich!
+      <br> Doch heut auf die Wiese begleitest du mich.
+      <br> Mit Blumen und B&auml;ndern putz' dich fein;
+      <br> sollst mein stattlicher Herold sein.</p>
+      <p>
+      <span class="speaker">David:</span> Sollt' ich nicht lieber Brautf&uuml;hrer sein?
+      <br> Meister, ach Meister! Ihr m&uuml;&szlig;t wieder frein!</p>
+      <p>
+      <span class="speaker">Sachs:</span> H&auml;tt'st wohl gern eine Meist'rin im Haus?</p>
+      <p>
+      <span class="speaker">David:</span> Ich mein', es s&auml;h' doch viel stattlicher aus.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Wer wei&szlig;! Kommt Zeit, kommt Rat.</p>
+      <p>
+      <span class="speaker">David:</span> &lsquo;s ist Zeit!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Dann w&auml;r' der Rat wohl auch nicht weit?</p>
+      <p>
+      <span class="speaker">David:</span> Gewi&szlig;! Gehn schon Reden hin und wieder,
+      <br> den Beckmesser, denk' ich, s&auml;ngt Ihr doch nieder?
+      <br> Ich mein', da&szlig; der heut' sich nicht wichtig macht.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Wohl m&ouml;glich! Hab mir's auch schon bedacht. &ndash;
+      <br> Jetzt geh' und st&ouml;r' mir den Junker nicht!
+      <br> Komm wieder, wenn du sch&ouml;n gericht't.</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(k&uuml;&szlig;t Sachs ger&uuml;hrt die Hand)</span>:
+      <br> So war er noch nie, wenn sonst auch gut!
+      <br> Kann mir gar nicht mehr denken, wie der Knieriemen tut!</p>
+      <p>
+        <span class="regie">(Er packt alles zusammen und geht in die Kammer ab.)</span>
+      </p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(immer noch den Folianten auf dem Scho&szlig;e, lehnt sich, mit untergest&uuml;tztem Arme, sinnend darauf; es scheint, da&szlig; ihn das Gespr&auml;ch mit David gar nicht aus seinem Nachdenken gest&ouml;rt hat)</span>:
+      <br> Wahn! Wahn! &Uuml;berall Wahn!
+      <br> Wohin ich forschend blick'
+      <br> in Stadt- und Weltchronik,
+      <br> den Grund mir aufzufinden,
+      <br> warum gar bis aufs Blut
+      <br> die Leut' sich qu&auml;len und schinden
+      <br> in unn&uuml;tz toller Wut!
+      <br> Hat keiner Lohn noch Dank davon:
+      <br> in Flucht geschlagen, w&auml;hnt er zu jagen.
+      <br> H&ouml;rt nicht sein eigen Schmerzgekreisch,
+      <br> wenn er sich w&uuml;hlt ins eig'ne Fleisch,
+      <br> w&auml;hnt Lust sich zu erzeigen.
+      <br> Wer gibt den Namen an?
+      <br> &lsquo;s ist halt der alte Wahn,
+      <br> ohn' den nichts mag geschehen,
+      <br> &lsquo;s mag gehen oder stehen!
+      <br> Steht's wo im Lauf,
+      <br> er schl&auml;ft nur neue Kraft sich an;
+      <br> gleich wacht er auf,
+      <br> dann schaut, wer ihn bemeistern kann!
+      <br> Wie friedsam treuer Sitten
+      <br> getrost in Tat und Werk,
+      <br> liegt nicht in Deutschlands Mitten
+      <br> mein liebes N&uuml;renberg!
+      <br> 
+      <span class="regie">(Er blickt mit freudiger Begeisterung ruhig vor sich hin.)</span>
+      <br> Doch eines Abends spat,
+      <br> ein Ungl&uuml;ck zu verh&uuml;ten,
+      <br> bei jugendhei&szlig;en Gem&uuml;ten,
+      <br> ein Mann wei&szlig; sich nicht Rat;
+      <br> ein Schuster in seinem Laden
+      <br> zieht an des Wahnes Faden.
+      <br> Wie bald auf Gassen und Stra&szlig;en
+      <br> f&auml;ngt der da an zu rasen!
+      <br> Mann, Weib, Gesell und Kind
+      <br> f&auml;llt sich da an wie toll und blind;
+      <br> und will's der Wahn gesegnen,
+      <br> nun mu&szlig; es Pr&uuml;gel regnen,
+      <br> mit Hieben, Sto&szlig;' und Dreschen
+      <br> den Wutesbrand zu l&ouml;schen.
+      <br> Gott wei&szlig;, wie das geschah? &ndash;
+      <br> Ein Kobold half wohl da!
+      <br> Ein Gl&uuml;hwurm fand sein Weibchen nicht;
+      <br> der hat den Schaden angericht't.
+      <br> Der Flieder war's:
+      <br> Johannisnacht. &ndash;
+      <br> Nun aber kam Johannistag! &ndash;
+      <br> Jetzt schau'n wir, wie Hans Sachs es macht,
+      <br> da&szlig; er den Wahn fein lenken kann,
+      <br> ein edler' Werk zu tun.
+      <br> Denn l&auml;&szlig;t er uns nicht ruh'n
+      <br> selbst hier in N&uuml;renberg,
+      <br> so sei's um solche Werk',
+      <br> die selten vor gemeinen Dingen
+      <br> und nie ohn' ein'gen Wahn gelingen.</p>
+      <h4>Zweite Szene</h4>
+      <p>
+        <span class="regie">(Walther tritt unter der Kammert&uuml;r ein. Er bleibt einen Augenblick dort stehen und blickt auf Sachs. Dieser wendet sich und l&auml;&szlig;t den Folianten auf den Boden gleiten.)</span>
+      </p>
+      <p>
+      <span class="speaker">Sachs:</span> Gr&uuml;&szlig; Gott, mein Junker! Ruhtet Ihr noch? Ihr wachtet lang:
+      <br> nun schlieft Ihr doch?</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(sehr ruhig)</span>:
+      <br> Ein wenig, aber fest und gut.</p>
+      <p>
+      <span class="speaker">Sachs:</span> So ist Euch nun wohl ba&szlig; zumut?</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(immer sehr ruhig)</span>:
+      <br> Ich hatt' einen wundersch&ouml;nen Traum.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Das deutet Gut's! Erz&auml;hlt mir den.</p>
+      <p>
+      <span class="speaker">Walther:</span> Ihn selbst zu denken wag' ich kaum; ich f&uuml;rcht' ihn mir vergeh'n zu sehn.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Mein Freund, das grad' ist Dichters Werk,
+      <br> da&szlig; er sein Tr&auml;umen deut' und merk'.
+      <br> Glaubt mir, des Menschen wahrster Wahn
+      <br> wird ihm im Traume aufgetan:
+      <br> all Dichtkunst und Poeterei
+      <br> ist nichts als Wahrtraumdeuterei.
+      <br> Was gilt's, es gab der Traum Euch ein,
+      <br> wie heut' Ihr sollet Meister sein?</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(sehr ruhig)</span>:
+      <br> Nein, von der Zunft und ihren Meistern
+      <br> wollt' sich mein Traumbild nicht begeistern.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Doch lehrt' es wohl den Zauberspruch, mit dem Ihr sie gew&auml;nnet?</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(etwas lebhafter)</span>:
+      <br> Wie w&auml;hnt Ihr doch nach solchem Bruch, wenn Ihr noch Hoffnung kennet!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Die Hoffnung la&szlig; ich mir nicht mindern,
+      <br> nichts stie&szlig; sie noch &uuml;ber'n Haufen.
+      <br> W&auml;r's nicht, glaubt, statt Eure Flucht zu hindern,
+      <br> w&auml;r' ich selbst mit Euch fortgelaufen!
+      <br> Drum bitt ich, la&szlig;t den Groll jetzt ruh'n;
+      <br> Ihr habt's mit Ehrenm&auml;nnern zu tun,
+      <br> die irren sich und sind bequem,
+      <br> da&szlig; man auf ihre Weise sie n&auml;hm'.
+      <br> Wer Preise erkennt und Preise stellt,
+      <br> der will am End' auch, da&szlig; man ihm gef&auml;llt.
+      <br> Eu'r Lied, das hat ihnen bang gemacht;
+      <br> und das mit Recht:
+      <br> denn wohlbedacht,
+      <br> mit solchem Dicht'- und Liebesfeuer
+      <br> verf&uuml;hrt man wohl T&ouml;chter zum Abenteuer;
+      <br> doch f&uuml;r liebseligen Ehestand
+      <br> man andre Wort' und Weisen fand.</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(l&auml;chelnd)</span>:
+      <br> Die kenn' ich nun auch seit dieser Nacht:
+      <br> es hat viel L&auml;rm auf der Gasse gemacht.</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(lachend)</span>:
+      <br> Ja, ja! Schon gut! Den Takt dazu
+      <br> h&ouml;rtet Ihr auch! &ndash; Doch, la&szlig;t dem Ruh'
+      <br> und folgt meinem Rate, kurz und gut,
+      <br> fa&szlig;t zu einem Meisterliede Mut.</p>
+      <p>
+      <span class="speaker">Walther:</span> Ein sch&ouml;nes Lied, ein Meisterlied, wie fa&szlig; ich da den Unterschied?</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(zart)</span>:
+      <br> Mein Freund! In holder Jugendzeit,
+      <br> wenn uns von m&auml;cht'gen Trieben
+      <br> zum sel'gen ersten Lieben
+      <br> die Brust sich schwellet hoch und weit,
+      <br> ein sch&ouml;nes Lied zu singen
+      <br> mocht' vielen da gelingen:
+      <br> der Lenz, der sang f&uuml;r sie.
+      <br> Kam Sommer, Herbst und Winterzeit,
+      <br> viel Not und Sorg' im Leben,
+      <br> manch ehlich Gl&uuml;ck daneben,
+      <br> Kindtauf', Gesch&auml;fte, Zwist und Streit:
+      <br> denen's dann noch will gelingen,
+      <br> ein sch&ouml;nes Lied zu singen,
+      <br> seht, Meister nennt man die.</p>
+      <p>
+      <span class="speaker">Walther:</span> Ich lieb' ein Weib und will es frein,
+      <br> mein dauernd Ehgemahl zu sein.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Die Meisterregeln lernt beizeiten,
+      <br> da&szlig; sie getreulich Euch geleiten
+      <br> und helfen wohl bewahren,
+      <br> was in der Jugend Jahren
+      <br> mit holdem Triebe Lenz und Liebe
+      <br> Euch unbewu&szlig;t ins Herz gelegt,
+      <br> da&szlig; Ihr das unverloren hegt.</p>
+      <p>
+      <span class="speaker">Walther:</span> Stehn sie nun in so hohem Ruf,
+      <br> wer war es, der die Regeln schuf?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Das waren hochbed&uuml;rft'ge Meister,
+      <br> von Lebensm&uuml;h' bedr&auml;ngte Geister;
+      <br> in ihrer N&ouml;ten Wildnis
+      <br> sie schufen sich ein Bildnis,
+      <br> da&szlig; ihnen bliebe der Jugendliebe
+      <br> ein Angedenken klar und fest,
+      <br> dran sich der Lenz erkennen l&auml;&szlig;t.</p>
+      <p>
+      <span class="speaker">Walther:</span> Doch, wem der Lenz schon lang entronnen,
+      <br> wie wird er dem im Bild gewonnen?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Er frischt es an, so oft er kann!
+      <br> Drum m&ouml;cht' ich, als bed&uuml;rft'ger Mann,
+      <br> will ich die Regeln Euch lehren,
+      <br> sollt Ihr sie mir neu erkl&auml;ren.
+      <br> Seht, hier ist Tinte, Feder, Papier:
+      <br> ich schreib's Euch auf, diktiert Ihr mir!</p>
+      <p>
+      <span class="speaker">Walther:</span> Wie ich's beg&auml;nne, w&uuml;&szlig;t' ich kaum.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Erz&auml;hlt mir Euren Morgentrauml</p>
+      <p>
+      <span class="speaker">Walther:</span> Durch Eurer Regeln gute Lehr' ist mir's, als ob verwischt er w&auml;r'.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Grad' nehmt die Dichtkunst jetzt zur Hand; mancher durch sie das Verlorene fand.</p>
+      <p>
+      <span class="speaker">Walther:</span> So w&auml;r's nicht Traum, doch Dichterei?</p>
+      <p>
+      <span class="speaker">Sachs:</span> &lsquo;s sind Freunde beid', steh'n gern sich bei.</p>
+      <p>
+      <span class="speaker">Walther:</span> Wie fang' ich nach der Regel an?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ihr stellt sie selbst und folgt ihr dann.
+      <br> Gedenkt des sch&ouml;nen Traums am Morgen;
+      <br> f&uuml;rs and're la&szlig;t Hans Sachs nur sorgen!</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(hat sich zu Sachs am Werktisch gesetzt, wo dieser das Gedicht Walthers nachschreibt. Er beginnt sehr leise, wie heimlich)</span>:
+      <br> &raquo;Morgenlich leuchtend in rosigem Schein,
+      <br> von Bl&uuml;t' und Duft geschwellt die Luft,
+      <br> voll aller Wonnen, nie ersonnen,
+      <br> ein Garten lud mich ein, Gast ihm zu sein.&laquo;</p>
+      <p>
+      <span class="speaker">Sachs:</span> Das war ein Stollen:
+      <br> nun achtet wohl,
+      <br> da&szlig; ganz ein gleicher ihm folgen soll.</p>
+      <p>
+      <span class="speaker">Walther:</span> Warum ganz gleich?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Damit man seh',
+      <br> Ihr w&auml;hltet Euch gleich ein Weib zur Eh'.</p>
+      <p>
+      <span class="speaker">Walther:</span> &raquo;Wonnig entragend dem seligen Raum
+      <br> bot goldner Frucht heilsaft'ge Wucht
+      <br> mit holdem Prangen dem Verlangen
+      <br> an duft'ger Zweige Saum herrlich ein Baum.&laquo;</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ihr schlosset nicht im gleichen Ton.
+      <br> Das macht den Meistern Pein;
+      <br> doch nimmt Hans Sachs die Lehr' davon,
+      <br> im Lenz wohl m&uuml;ss' es so sein. &ndash;
+      <br> Nun stellt mir einen Abgesang.</p>
+      <p>
+      <span class="speaker">Walther:</span> Was soll nun der?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ob Euch gelang,
+      <br> ein rechtes Paar zu finden,
+      <br> das zeigt sich [jetzt] an den Kinden.
+      <br> Den Stollen &auml;hnlich, doch nicht gleich,
+      <br> an eig'nen Reim' und T&ouml;nen reich;
+      <br> da&szlig; man's recht schlank und selbstig find',
+      <br> das freut die Eltern an dem Kind,
+      <br> und Euren Stollen gibt's den Schlu&szlig;,
+      <br> da&szlig; nichts davon abfallen mu&szlig;.</p>
+      <p>
+      <span class="speaker">Walther:</span> &raquo;Sei Euch vertraut,
+      <br> welch hehres Wunder mir gescheh'n:
+      <br> an meiner Seite stand ein Weib,
+      <br> so hold und sch&ouml;n ich nie geseh'n;
+      <br> gleich einer Braut
+      <br> umfa&szlig;te sie sanft meinen Leib;
+      <br> mit Augen winkend,
+      <br> die Hand wies blinkend,
+      <br> was ich verlangend begehrt,
+      <br> die Frucht so hold und wert
+      <br> vom Lebensbaum.&laquo;</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(ger&uuml;hrt)</span>:
+      <br> Das nenn' ich mir einen Abgesang!
+      <br> Seht, wie der ganze Bar gelang.
+      <br> Nur mit der Melodei seid Ihr ein wenig frei;
+      <br> doch sag' ich nicht, da&szlig; das ein Fehler sei;
+      <br> nur ist's nicht leicht zu behalten,
+      <br> und das &auml;rgert uns're Alten! &ndash;
+      <br> Jetzt richtet mir noch einen zweiten Bar,
+      <br> damit man merk', welch' der erste war.
+      <br> Auch wei&szlig; ich noch nicht, so gut Ihr's gereimt,
+      <br> was Ihr gedichtet, was Ihr getr&auml;umt.</p>
+      <p>
+      <span class="speaker">Walther:</span> &raquo;Abendlich gl&uuml;hend in himmlischer Pracht
+      <br> verschied der Tag, wie dort ich lag;
+      <br> aus ihren Augen Wonne zu saugen,
+      <br> Verlangen einz'ger Macht in mir nur wacht'.
+      <br> N&auml;chtlich umd&auml;mmert der Blick mir sich bricht!
+      <br> Wie weit so nah' beschienen da
+      <br> zwei lichte Sterne aus der Ferne
+      <br> durch schlanker Zweige Licht hehr mein Gesicht.
+      <br> Lieblich ein Quell
+      <br> auf stiller H&ouml;he dort mir rauscht;
+      <br> jetzt schwellt er an sein hold' Get&ouml;n',
+      <br> so stark und s&uuml;&szlig; ich's nie erlauscht:
+      <br> leuchtend und hell, wie strahlten die Sterne da sch&ouml;n;
+      <br> zu Tanz und Reigen in Laub und Zweigen
+      <br> der gold'nen sammeln sich mehr,
+      <br> statt Frucht ein Sternenheer
+      <br> im Lorbeerbaum.&laquo; &ndash;</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(sehr ger&uuml;hrt)</span>:
+      <br> Freund!
+      <br> Euer Traumbild wies Euch wahr;
+      <br> gelungen ist auch der zweite Bar.
+      <br> Wolltet Ihr noch einen dritten dichten?
+      <br> Des Traumes Deutung w&uuml;rd' er berichten.</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(steht schnell auf)</span>:
+      <br> Wo f&auml;nd' ich die? Genug der Wort'!</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(erhebt sich gleichfalls und tritt mit freundlicher Entschiedenheit zu Walther)</span>:
+      <br> Dann Tat und Wort am rechten Ort!
+      <br> Drum bitt' ich, merkt mir wohl die Weise:
+      <br> gar lieblich drin sich's dichten l&auml;&szlig;t:
+      <br> und singt Ihr sie im weit'ren Kreise,
+      <br> so haltet mir auch das Traumbild fest.</p>
+      <p>
+      <span class="speaker">Walther:</span> Was habt Ihr vor?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Eu'r treuer Knecht
+      <br> fand sich mit Sack und Tasch' zurecht;
+      <br> die Kleider, drin am Hochzeitfest
+      <br> daheim Ihr wolltet prangen,
+      <br> die lie&szlig; er her zu mir gelangen.
+      <br> Ein T&auml;ubchen zeigt' ihm wohl das Nest,
+      <br> darin sein Junker tr&auml;umt!
+      <br> Drum folgt mir jetzt ins K&auml;mmerlein!
+      <br> Mit Kleiden, wohlges&auml;umt,
+      <br> sollen beide wir gezieret sein,
+      <br> wenn's Stattliches zu wagen gilt.
+      <br> Drum kommt, seid Ihr gleich mir gesinnt.</p>
+      <p>
+        <span class="regie">(Walther schl&auml;gt in Sachsens Hand ein; so geleitet ihn dieser ruhig festen Schrittes zur Kammer, deren T&uuml;r er ihm ehrerbietig &ouml;ffnet und dann ihm folgt.)</span>
+      </p>
+      <h4>Dritte Szene</h4>
+      <p class="stage">(Beckmesser. Sachs. Man gewahrt Beckmesser, welcher drau&szlig;en vor dem Laden erscheint, in gro&szlig;er Aufregung hereinlugt und, da er die Werkstatt leer findet, hastig eintritt Er ist reich aufgeputzt, aber in sehr leidendem Zustande. Er blickt sich erst unter der T&uuml;r nochmals genau in der Werkstatt um, dann hinkt er vorw&auml;rts, zuckt aber zusammen und streicht sich den R&uuml;kken. Er macht wieder einige Schritte, knickt aber mit den Knien und streicht nun diese. Er setzt sich auf den Schusterschemel, f&auml;hrt aber schnell schmerzhaft wieder auf. Er betrachtet sich den Schemel und ger&auml;t dabei in immer aufgeregteres Nachsinnen. Er wird von den verdrie&szlig;lichsten Erinnerungen und Vorstellungen gepeinigt; immer unruhiger beginnt er sich den Schwei&szlig; von der Stirne zu wischen. Er hinkt immer lebhafter umher und starrt dabei vor sich hin. Als ob er von allen Seiten verfolgt w&auml;re, taumelt er fliehend hin und her. Wie um nicht umzusinken, h&auml;lt er sich an dem Werktisch, zu dem er hin geschwankt war, an und starrt vor sich hin.</p>
+      <p class="stage">Matt und verzweiflungsvoll sieht er um sich; sein Blick f&auml;llt endlich durch das Fenster auf Pogners Haus; er hinkt m&uuml;hsam an dasselbe heran, und, nach dem gegen&uuml;berliegenden Fenster aussp&auml;hend, versucht er, sich in die Brust zu werfen, als ihm sogleich der Ritter Walther einf&auml;llt. &Auml;rgerliche Gedanken entstehen dadurch, gegen die er mit schmeichelndem Selbstgef&uuml;hl anzuk&auml;mpfen sucht. Die Eifersucht &uuml;bermannt ihn; er schl&auml;gt sich vor den Kopf. Er glaubt die Verh&ouml;hnung der Weiber und Buben auf der Gasse zu vernehmen, wendet sich w&uuml;tend ab und schmei&szlig;t das Fenster zu.</p>
+      <p class="stage">Sehr verst&ouml;rt wendet er sich mechanisch wieder dem Werktische zu, indem er vor sich hinbr&uuml;tend nach einer neuen Weise zu suchen scheint. Sein Blick f&auml;llt auf das von Sachs zuvor beschriebene Papier; er nimmt es neugierig auf, &uuml;berfliegt es mit wachsender Aufregung und bricht endlich w&uuml;tend aus.)</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Ein Werbelied! Von Sachs! Ist's wahr?
+      <br> Ha! Jetzt wird mir alles klar!</p>
+      <p>
+        <span class="regie">(Da er die Kammert&uuml;r gehen h&ouml;rt, f&auml;hrt er zusammen und steckt das Papier eilig in die Tasche.)</span>
+      </p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(im Festgewande, tritt ein, kommt vor und h&auml;lt an, als er Beckmesser gewahrt)</span>:
+      <br> Sieh da, Herr Schreiber! Auch am Morgen?
+      <br> Euch machen die Schuh' doch nicht mehr Sorgen?</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Zum Teufel! So d&uuml;nn war ich noch nie beschuht!
+      <br> F&uuml;hl' durch die Sohl' den kleinsten Kies!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Mein Merkerspr&uuml;chlein wirkte dies,
+      <br> trieb sie mit Merkerzeichen so weich.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Schon gut der Witz! Und genug der Streich'!
+      <br> Glaubt mir, Freund Sachs, jetzt kenn' ich Euch!
+      <br> Der Spa&szlig; von dieser Nacht, der wird Euch noch gedacht.
+      <br> Da&szlig; ich Euch nur nicht im Wege sei,
+      <br> schuft Ihr gar Aufruhr und Meuterei!</p>
+      <p>
+      <span class="speaker">Sachs:</span> &lsquo;s war Polterabend, la&szlig;t Euch bedeuten;
+      <br> Eure Hochzeit spukte unter den Leuten:
+      <br> je toller es da hergeh', je besser bekommt's der Eh'.</p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(w&uuml;tend)</span>:
+      <br> O Schuster, voll von R&auml;nken
+      <br> und p&ouml;belhaften Schw&auml;nken,
+      <br> du warst mein Feind von je:
+      <br> nun h&ouml;r, ob hell ich seh'!
+      <br> Die ich mir auserkoren,
+      <br> die ganz f&uuml;r mich geboren,
+      <br> zu aller Witwer Schmach,
+      <br> der Jungfer stellst du nach.
+      <br> Da&szlig; sich Herr Sachs erwerbe
+      <br> des Goldschmieds reiches Erbe,
+      <br> im Meisterrat zur Hand
+      <br> auf Klauseln er bestand,
+      <br> ein M&auml;gdlein zu bet&ouml;ren,
+      <br> das nur auf ihn sollt' h&ouml;ren
+      <br> und, andern abgewandt,
+      <br> zu ihm allein sich fand.
+      <br> Darum! Darum!
+      <br> W&auml;r' ich so dumm?
+      <br> Mit Schreien und mit Klopfen
+      <br> wollt' er mein Lied zustopfen,
+      <br> da&szlig; nicht dem Kind werd' kund,
+      <br> wie auch ein and'rer bestund!
+      <br> Ja ja! Haha! Hab ich dich da?
+      <br> Aus seiner Schusterstuben
+      <br> hetzt' endlich er den Buben
+      <br> mit Kn&uuml;ppeln auf mich her,
+      <br> da&szlig; meiner los er w&auml;r'!
+      <br> Au au! Au au! Wohl gr&uuml;n und blau,
+      <br> zum Spott der allerliebsten Frau,
+      <br> zerschlagen und zerpr&uuml;gelt,
+      <br> da&szlig; kein Schneider mich aufb&uuml;gelt!
+      <br> Gar auf mein Leben war's angegeben!
+      <br> Doch kam ich noch so davon,
+      <br> da&szlig; ich die Tat Euch lohn'!
+      <br> Zieht heut' nur aus zum Singen,
+      <br> merkt auf, wie's mag gelingen;
+      <br> bin ich gezwackt auch und zerhackt,
+      <br> Euch bring' ich doch sicher aus dem Takt!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Gut Freund, Ihr seid in argem Wahn!
+      <br> Glaubt, was Ihr wollt, da&szlig; ich getan,
+      <br> gebt Eure Eifersucht nur hin;
+      <br> zu werben kommt mir nicht in Sinn.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Lug und Trug! Ich kenn' es besser.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Was f&auml;llt Euch nur ein, Meister Beckmesser?
+      <br> Was ich sonst im Sinn, geht Euch nichts an.
+      <br> Doch glaubt, ob der Werbung seid Ihr im Wahn.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Ihr s&auml;ngt heut nicht?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Nicht zur Wette.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Kein Werbelied?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Gewi&szlig;lich, nein!</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Wenn ich aber drob ein Zeugnis h&auml;tte? (Er greift in die Tasche.)</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(blickt auf den Werktisch)</span>:
+      <br> Das Gedicht? Hier lie&szlig; ich's. Stecktet Ihr's ein?</p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(das Blatt hervorziehend)</span>:
+      <br> Ist das Eure Hand?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ja &ndash; war es das?</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Ganz frisch noch die Schrift?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Und die Tinte noch na&szlig;!</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> &lsquo;s w&auml;r' wohl gar ein biblisches Lied?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Der fehlte wohl, wer darauf riet.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Nun denn?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Wie doch?</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Ihr fragt?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Was noch?</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Da&szlig; Ihr mit aller Biederkeit
+      <br> der &auml;rgste aller Spitzbuben seid!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Mag sein! Doch hab ich noch nie entwandt,
+      <br> was ich auf fremden Tischen fand &ndash;
+      <br> und da&szlig; man von Euch auch nicht &Uuml;bles denkt,
+      <br> behaltet das Blatt, es sei Euch geschenkt.</p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(in freudigem Schreck aufspringend)</span>:
+      <br> Herrgott! ...
+      <br> Ein Gedicht? ... Ein Gedicht von Sachs!
+      <br> Doch halt, da&szlig; kein neuer Schad' mir erwachs'!
+      <br> Ihr habt's wohl schon recht gut memoriert?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Seid meinethalb doch nur unbeirrt!</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Ihr la&szlig;t mir das Blatt?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Damit Ihr kein Dieb.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Und mach' ich Gebrauch?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Wie's Euch belieb'.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Doch sing' ich das Lied?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Wenn's nicht zu schwer!</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Und wenn ich gefiel'?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Das ... wunderte mich sehr!</p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(ganz zutraulich)</span>:
+      <br> Da seid Ihr nun wieder zu bescheiden:
+      <br> ein Lied von Sachs,
+      <br> 
+      <span class="regie">(gleichsam pfeifend)</span> das will was bedeuten!
+      <br> Und seht nur, wie mir's ergeht,
+      <br> wie's mit mir &Auml;rmsten steht!
+      <br> Erseh' ich doch mit Schmerzen,
+      <br> das Lied, das nachts ich sang &ndash;
+      <br> dank Euren lust'gen Scherzen! &ndash;
+      <br> es machte der Pognerin bang'.
+      <br> Wie schaff' ich mir nun zur Stelle
+      <br> ein neues Lied herzu?
+      <br> Ich armer, zerschlag'ner Geselle,
+      <br> wie f&auml;nd' ich heut dazu Ruh'?
+      <br> Werbung und ehlich Leben,
+      <br> ob das mir Gott beschied,
+      <br> mu&szlig; ich nun grad aufgeben,
+      <br> hab ich kein neues Lied.
+      <br> Ein Lied von Euch, des bin ich gewi&szlig;,
+      <br> mit dem besieg' ich jed' Hindernis!
+      <br> Soll ich das heute haben,
+      <br> vergessen, begraben
+      <br> sei Zwist, Hader und Streit
+      <br> und was uns je entzweit.
+      <br> 
+      <span class="regie">(Er blickt seitw&auml;rts in das Blatt: pl&ouml;tzlich runzelt sich seine Stirn.)</span>
+      <br> Und doch! Wenn's nur eine Falle w&auml;r'?
+      <br> Noch gestern wart Ihr mein Feind:
+      <br> Wie k&auml;m's, da&szlig; nach so gro&szlig;er Beschwer'
+      <br> Ihr's freundlich heut' mit mir meint?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ich macht' Euch Schuh' in sp&auml;ter Nacht:
+      <br> hat man je so einen Feind bedacht?</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Ja ja! Recht gut! Doch eines schw&ouml;rt:
+      <br> wo und wie Ihr das Lied auch h&ouml;rt,
+      <br> da&szlig; nie Ihr Euch beikommen la&szlig;t,
+      <br> zu sagen, das Lied sei von Euch verfa&szlig;t.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Das schw&ouml;r' ich und gelob' es Euch,
+      <br> nie mich zu r&uuml;hmen, das Lied sei von mir.</p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(sich vergn&uuml;gt die H&auml;nde reibend)</span>:
+      <br> Was will ich mehr? Ich bin geborgen!
+      <br> Jetzt braucht sich Beckmesser nicht mehr zu sorgen!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Doch, Freund, ich f&uuml;hr's Euch zu Gem&uuml;te
+      <br> und rat' es Euch in aller G&uuml;te:
+      <br> studiert mir recht das Lied!
+      <br> Sein Vortrag ist nicht leicht:
+      <br> ob Euch die Weise geriet
+      <br> und Ihr den Ton erreicht!</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Freund Sachs, Ihr seid ein guter Poet;
+      <br> doch was Ton und Weise betrifft,
+      <br> gesteht, da tut mir's keiner vor!
+      <br> Drum spitzt nur fein das Ohr.
+      <br> Und:
+      <br> &raquo;Beckmesser, keiner besser!&laquo;
+      <br> darauf macht Euch gefa&szlig;t,
+      <br> wenn Ihr mich ruhig singen la&szlig;t.
+      <br> Doch nun memorieren,
+      <br> schnell nach Haus;
+      <br> ohne Zeit zu verlieren
+      <br> richt' ich das aus.
+      <br> Hans Sachs, mein Teurer!
+      <br> ich hab Euch verkannt;
+      <br> durch den Abenteurer
+      <br> war ich verrannt:
+      <br> 
+      <span class="regie">(sehr zutraulich)</span> So einer fehlte uns blo&szlig;!
+      <br> Den wurden wir Meister doch los!
+      <br> Doch mein Besinnen
+      <br> l&auml;uft mir von hinnen.
+      <br> Bin ich verwirrt
+      <br> und ganz verirrt?
+      <br> Die Silben, die Reime,
+      <br> die Worte, die Verse:
+      <br> ich kleb' wie am Leime,
+      <br> und brennt doch die Ferse.
+      <br> Ade, ich mu&szlig; fort!
+      <br> An andrem Ort
+      <br> dank' ich Euch inniglich,
+      <br> weil Ihr so minniglich;
+      <br> f&uuml;r Euch nun stimme ich,
+      <br> kauf' Eure Werke gleich,
+      <br> mache zum Merker Euch:
+      <br> doch fein mit Kreide weich,
+      <br> nicht mit dem Hammerstreich!
+      <br> Merker! Merker! Merker Hans Sachs!
+      <br> Da&szlig; N&uuml;rnberg schusterlich bl&uuml;h' und wachs'!</p>
+      <p class="stage">(Beckmesser nimmt tanzend von Sachs Abschied, taumelt und poltert der Ladent&uuml;r zu; pl&ouml;tzlich glaubt er das Gedicht in seiner Tasche vergessen zu haben, l&auml;uft wieder vor, sucht &auml;ngstlich auf dem Werktische, bis er es in der eigenen Hand gewahr wird; dar&uuml;ber scherzhaft erfreut, umarmt er Sachs nochmals voll feurigen Dankes und st&uuml;rzt dann, hinkend und strauchelnd, ger&auml;uschvoll durch die Ladent&uuml;r ab.)</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(sieht Beckmesser gedankenvoll l&auml;chelnd nach)</span>:
+      <br> So ganz boshaft doch keinen ich fand;
+      <br> er h&auml;lt's auf die L&auml;nge nicht aus:
+      <br> vergeudet mancher oft viel Verstand,
+      <br> doch h&auml;lt er auch damit Haus;
+      <br> die schwache Stunde kommt f&uuml;r jeden,
+      <br> da wird er dumm und l&auml;&szlig;t mit sich reden.
+      <br> Da&szlig; hier Herr Beckmesser ward zum Dieb,
+      <br> ist mir f&uuml;r meinen Plan sehr lieb.
+      <br> 
+      <span class="regie">(Eva n&auml;hert sich auf der Stra&szlig;e der Ladent&uuml;r. Sachs wendet sich um und gewahrt Eva.)</span>
+      <br> Sieh, Evchen! Dacht' ich doch, wo sie blieb'!</p>
+      <h4>Vierte Szene</h4>
+      <p>
+      <br> 
+      <span class="regie">(Eva, reich geschm&uuml;ckt, in gl&auml;nzender wei&szlig;er Kleidung, etwas leidend und bla&szlig;, tritt zum Laden herein und schreitet langsam vor.)</span></p>
+      <p>
+      <span class="speaker">Sachs:</span> Gr&uuml;&szlig; Gott, mein Evchen! Ei, wie herrlich
+      <br> und stolz du's heute meinst!
+      <br> Du machst wohl alt und jung begehrlich,
+      <br> wenn du so sch&ouml;n erscheinst.</p>
+      <p>
+      <span class="speaker">Eva:</span> Meister! &lsquo;s ist nicht so gef&auml;hrlich:
+      <br> und ist's dem Schneider gegl&uuml;ckt,
+      <br> wer sieht dann, wo's mir beschwerlich,
+      <br> wo still der Schuh mich dr&uuml;ckt?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Der b&ouml;se Schuh! &lsquo;s war deine Laun',
+      <br> da&szlig; du ihn gestern nicht probiert.</p>
+      <p>
+      <span class="speaker">Eva:</span> Merk' wohl, ich hatt' zu viel Vertrau'n;
+      <br> im Meister hatt' ich mich geirrt.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ei, &lsquo;s tut mir leid! Zeig' her, mein Kind,
+      <br> da&szlig; ich dir helfe gleich geschwind.</p>
+      <p>
+      <span class="speaker">Eva:</span> Sobald ich stehe, will es geh'n;
+      <br> och will ich geh'n, zwingt's mich zu steh'n.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Hier auf den Schemel streck den Fu&szlig;:
+      <br> der &uuml;blen Not ich wehren mu&szlig;.
+      <br> 
+      <span class="regie">(Sie streckt einen Fu&szlig; auf dem Schemel am Werktisch aus.)</span>
+      <br> Was ist's mit dem?</p>
+      <p>
+      <span class="speaker">Eva:</span> Ihr seht, zu weit!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Kind, das ist pure Eitelkeit,
+      <br> der Schuh ist knapp.</p>
+      <p>
+      <span class="speaker">Eva:</span> Das sagt' ich ja:
+      <br> drum dr&uuml;ckt er mich an den Zehen da.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Hier links?</p>
+      <p>
+      <span class="speaker">Eva:</span> Nein, rechts.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Wohl mehr am Spann?</p>
+      <p>
+      <span class="speaker">Eva:</span> Hier, mehr am Hacken.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Kommt der auch dran?</p>
+      <p>
+      <span class="speaker">Eva:</span> Ach Meister! W&uuml;&szlig;tet Ihr besser als ich,
+      <br> wo der Schuh mich dr&uuml;ckt?</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ei, &lsquo;s wundert mich,
+      <br> da&szlig; er zu weit und doch dr&uuml;ckt &uuml;berall?</p>
+      <p class="stage">(Walther, in gl&auml;nzender Rittertracht, tritt unter die T&uuml;r der Kammer. Eva st&ouml;&szlig;t einen Schrei aus und bleibt, unverwandt auf Walther blickend, in ihrer Stellung, mit dem Fu&szlig;e auf dem Schemel. Sachs, der vor ihr niedergeb&uuml;ckt steht, bleibt mit dem R&uuml;cken der T&uuml;r zugekehrt, ohne Walthers Eintritt zu beachten. Walther, durch den Anblick Evas festgebannt, bleibt ebenfalls unbeweglich unter der T&uuml;r stehen.)</p>
+      <p class="leftmarg">
+      <br> Aha! Hier sitzt's! Nun begreif' ich den Fall!
+      <br> Kind, du hast recht:
+      <br> &lsquo;s stak in der Naht.
+      <br> Nun warte, dem &Uuml;bel schaff' ich Rat.
+      <br> Bleib nur so steh'n; ich nehm' dir den Schuh
+      <br> eine Weil' auf den Leisten:
+      <br> dann l&auml;&szlig;t er dir Ruh'!</p>
+      <p>
+        <span class="regie">(Er hat ihr sanft den Schuh vom Fu&szlig;e gezogen; w&auml;hrend sie in ihrer Stellung verbleibt, macht er sich am Werktisch mit dem Schuh zu schaffen und tut, als beachte er nichts anderes.)</span>
+      </p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(bei der Arbeit)</span>:
+      <br> Immer schustern, das ist nun mein Los;
+      <br> des Nachts, des Tags komm' nicht davon los!
+      <br> Kind, h&ouml;r' zu! Ich hab mir's &uuml;berdacht,
+      <br> was meinem Schustern ein Ende macht:
+      <br> am besten, ich werbe doch noch um dich;
+      <br> da gew&auml;nn' ich doch was als Poet f&uuml;r mich!
+      <br> Du h&ouml;rst nicht drauf? &ndash; So sprich doch jetzt!
+      <br> Hast mir's ja selbst in den Kopf gesetzt.
+      <br> Schon gut! &ndash; Ich merk':
+      <br> &raquo;Mach deinen Schuh!&laquo;..
+      <br> S&auml;ng' mir nur wenigstens einer dazu!
+      <br> H&ouml;rte heut' gar ein sch&ouml;nes Lied:
+      <br> wem dazu wohl ein dritter Vers geriet?</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(den Blick unverwandt auf Eva geheftet)</span>:
+      <br> &raquo;Weilten die Sterne im lieblichen Tanz?
+      <br> So licht und klar im Lockenhaar,
+      <br> vor allen Frauen hehr zu schauen,
+      <br> lag ihr mit zartem Glanz ein Sternenkranz. &ndash;</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(immerfort arbeitend)</span>:
+      <br> Lausch, Kind, das ist ein Meisterlied!</p>
+      <p>
+      <span class="speaker">Walther:</span> Wunder ob Wunder nun bieten sich dar:
+      <br> zwiefachen Tag ich gr&uuml;&szlig;en mag;
+      <br> denn gleich zwei'n Sonnen reinster Wonnen
+      <br> der hehrsten Augen Paar nahm ich da wahr. &ndash;</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(beiseite zu Eva)</span>:
+      <br> Derlei h&ouml;rst du jetzt bei mir singen.</p>
+      <p>
+      <span class="speaker">Walther:</span> Huldreichstes Bild,
+      <br> dem ich zu nahen mich erk&uuml;hnt:
+      <br> den Kranz, von zweier Sonnen Strahl
+      <br> zugleich geblichen und ergr&uuml;nt,
+      <br> minnig und mild,
+      <br> sie flocht ihn um das Haupt dem Gemahl.</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(hat den Schuh zur&uuml;ckgebracht und ist jetzt dar&uuml;ber, ihn Eva wieder anzuziehen)</span>:
+      <br> Nun schau, ob dazu mein Schuh geriet?</p>
+      <p>
+      <span class="speaker">Walther:</span> Dort Huld-geboren, nun Ruhm-erkoren,</p>
+      <p>
+      <span class="speaker">Sachs:</span> Mein' endlich doch, es t&auml;t' mir gelingen?</p>
+      <p>
+      <span class="speaker">Walther:</span> gie&szlig;t paradiesische Lust sie in des Dichters Brust</p>
+      <p>
+      <span class="speaker">Sachs:</span> Versuch's! Tritt auf! &ndash; Sag, dr&uuml;ckt er dich noch?</p>
+      <p>
+      <span class="speaker">Walther:</span> im Liebestraum.&laquo;</p>
+      <p class="stage">(Eva, die wie bezaubert regungslos gestanden, gesehen und geh&ouml;rt hat, bricht jetzt in heftiges Weinen aus, sinkt Sachs an die Brust und dr&uuml;ckt ihn schluchzend an sich. Walther ist zu ihnen getreten; er dr&uuml;ckt begeistert Sachs die Hand. Sachs tut sich endlich Gewalt an, rei&szlig;t sich wie unmutig los und l&auml;&szlig;t dadurch Eva unwillk&uuml;rlich an Walthers Schulter sich anlehnen.)</p>
+      <p>
+      <span class="speaker">Sachs:</span> Hat man mit dem Schuhwerk nicht seine Not!
+      <br> W&auml;r' ich nicht noch Poet dazu,
+      <br> ich machte l&auml;nger keine Schuh'!
+      <br> Das ist eine M&uuml;h', ein Aufgebot!
+      <br> Zu weit dem einen, dem andern zu eng;
+      <br> von allen Seiten Lauf und Gedr&auml;ng':
+      <br> da klappt's, da schlappt's,
+      <br> hier dr&uuml;ckt's, da zwickt's!
+      <br> Der Schuster soll auch alles wissen,
+      <br> flicken, was nur immer zerrissen
+      <br> und ist er [nun] gar Poet dazu,
+      <br> da l&auml;&szlig;t man am End' ihm auch da keine Ruh';
+      <br> und ist er erst noch Witwer gar,
+      <br> zum Narren h&auml;lt man ihn f&uuml;rwahr.
+      <br> Die j&uuml;ngsten M&auml;dchen, ist Not am Mann,
+      <br> begehren. er hielte um sie an.
+      <br> Versteht er sie, versteht er sie nicht,
+      <br> all eins, ob ja, ob nein er spricht:
+      <br> am End' riecht er doch nach Pech
+      <br> und gilt f&uuml;r dumm, t&uuml;ckisch und frech!
+      <br> Ei, &lsquo;s ist mir nur um den Lehrbuben leid;
+      <br> der verliert mir allen Respekt;
+      <br> die Lene macht' ihn schon nicht recht gescheit,
+      <br> da&szlig; aus T&ouml;pf' und Tellern er leckt!
+      <br> Wo Teufel er jetzt nur wieder steckt?
+      <br> 
+      <span class="regie">(Er stellt sich, als wolle er nach David sehen.)</span></p>
+      <p>
+      <span class="speaker">Eva</span> 
+      <span class="regie">(indem sie Sachs zur&uuml;ckh&auml;lt und von neuem an sich zieht)</span>:
+      <br> O Sachs, mein Freund! Du teurer Mann!
+      <br> Wie ich dir Edlem lohnen kann?
+      <br> Was ohne deine Liebe, was w&auml;r' ich ohne dich,
+      <br> ob je auch Kind ich bliebe,
+      <br> erwecktest du mich nicht?
+      <br> Durch dich gewann ich,
+      <br> was man preist,
+      <br> durch dich ersann ich,
+      <br> was ein Geist!
+      <br> Durch dich erwacht',
+      <br> durch dich nur dacht'
+      <br> ich edel, frei und k&uuml;hn,
+      <br> du lie&szlig;est mich erbl&uuml;h'n!
+      <br> Ja, lieber Meister, schilt mich nur!
+      <br> Ich war doch auf der rechten Spur:
+      <br> denn, hatte ich die Wahl,
+      <br> nur dich erw&auml;hlt' ich mir:
+      <br> du warest mein Gemahl.
+      <br> Den Preis reicht' ich nur dir! &ndash;
+      <br> Doch nun hat's mich gew&auml;hlt
+      <br> zu nie gekannter Qual:
+      <br> und werd' ich heut' verm&auml;hlt,
+      <br> so war's ohn' alle Wahl!
+      <br> Das war ein M&uuml;ssen, war ein Zwang!
+      <br> Euch selbst, mein Meister, wurde bang'.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Mein Kind, von Tristan und Isolde
+      <br> kenn' ich ein traurig St&uuml;ck:
+      <br> Hans Sachs war klug und wollte
+      <br> nichts von Herrn Markes Gl&uuml;ck.
+      <br> &lsquo;s war Zeit, da&szlig; ich den Rechten fand,
+      <br> w&auml;r' sonst am End' doch hineingerannt. &ndash;
+      <br> Aha! Da streicht die Lene schon ums Haus:
+      <br> Nur herein! &ndash; He, David! Kommst nicht heraus?</p>
+      <p>
+        <span class="regie">(Magdalene, in festlichem Staate, tritt durch die Ladent&uuml;r herein; David ebenfalls im Festkleid, mit Blumen und B&auml;ndern sehr reich und zierlich aufgeputzt, kommt zugleich aus der Kammer.)</span>
+      </p>
+      <p class="leftmarg">
+      <br> Die Zeugen sind da, Gevatter zur Hand;
+      <br> jetzt schnell zur Taufe, nehmt euren Stand.
+      <br> 
+      <span class="regie">(Alle blicken ihn verwundert an.)</span>
+      <br> Ein Kind ward hier geboren;
+      <br> jetzt sei ihm ein Nam' erkoren!
+      <br> So ist's nach Meisterweis' und Art,
+      <br> wenn eine Meister-Weise geschaffen ward:
+      <br> da&szlig; die einen guten Namen trag',
+      <br> dran jeder sie erkennen mag.
+      <br> Vernehmt, respektable Gesellschaft,
+      <br> was euch hier zur Stell' schafft!
+      <br> Eine Meisterweise ist gelungen,
+      <br> von Junker Walther gedichtet und gesungen;
+      <br> der jungen Weise lebender Vater
+      <br> lud mich und die Pognerin zu Gevatter.
+      <br> Weil wir die Weise wohl vernommen,
+      <br> sind wir zur Taufe hierher gekommen.
+      <br> Auch da&szlig; wir zur Handlung Zeugen haben,
+      <br> ruf' ich Jungfer Lene und meinen Knaben.
+      <br> Doch da's zum Zeugen kein Lehrbube tut
+      <br> und heut' auch den Spruch er gesungen gut,
+      <br> so mach' ich den Burschen gleich zum Gesell;
+      <br> knie nieder, David, und nimm diese Schell'!
+      <br> 
+      <span class="regie">(David ist niedergekniet: Sachs gibt ihm eine starke Ohrfeige.)</span>
+      <br> Steh' auf, Gesell', und denk' an den Streich;
+      <br> du merkst dir dabei die Taufe zugleich! &ndash;
+      <br> Fehlt sonst noch was, uns keiner schilt:
+      <br> wer wei&szlig;, ob's nicht gar einer Nottaufe gilt.
+      <br> Da&szlig; die Weise Kraft behalte zum Leben,
+      <br> will ich nur gleich den Namen ihr geben:
+      <br> &raquo;Die selige Morgentraumdeut-Weise&laquo;
+      <br> sei sie genannt zu des Meisters Preise.
+      <br> Nun wachse sie gro&szlig;, ohn' Schad' und Bruch.
+      <br> Die j&uuml;ngste Gevatterin spricht den Spruch.</p>
+      <p>
+        <span class="regie">(Er tritt aus der Mitte des Halbkreises, der von den &uuml;brigen um ihn gebildet war, auf die Seite, so da&szlig; nun Eva in die Mitte zu stehen kommt.)</span>
+      </p>
+      <p>
+      <span class="speaker">Eva:</span> Selig, wie die Sonne
+      <br> meines Gl&uuml;ckes lacht,
+      <br> Morgen voller Wonne
+      <br> selig mir erwacht!
+      <br> Traum der h&ouml;chsten Hulden,
+      <br> himmlisch' Morgengl&uuml;h'n!
+      <br> Deutung euch zu schulden,
+      <br> selig s&uuml;&szlig; Bem&uuml;h'n!
+      <br> Einer Weise mild und hehr
+      <br> sollt' es hold gelingen,
+      <br> meines Herzens s&uuml;&szlig; Beschwer'
+      <br> deutend zu bezwingen.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Vor dem Kinde lieblich hold
+      <br> m&ouml;cht' ich gern wohl singen;
+      <br> doch des Herzens s&uuml;&szlig;' Beschwer
+      <br> galt es zu bezwingen.</p>
+      <p>
+      <span class="speaker">Walther:</span> Deine Liebe lie&szlig; mir es gelingen,
+      <br> meines Herzens s&uuml;&szlig;' Beschwer' deutend zu bezwingen.</p>
+      <p>
+      <span class="speaker">Magdalene und David:</span> Wach' oder tr&auml;um' ich schon so fr&uuml;h?
+      <br> Das zu erkl&auml;ren macht mir M&uuml;h':</p>
+      <p>
+      <span class="speaker">Eva:</span> Ob es nur ein Morgentraum?</p>
+      <p>
+      <span class="speaker">Walther:</span> Ob es noch der Morgentraum?</p>
+      <p>
+      <span class="speaker">Sachs:</span> &lsquo;s war ein sch&ouml;ner Morgen-Traum:</p>
+      <p>
+      <span class="speaker">Eva und Walther:</span> Selig deut' ich mir es kaum.
+      <br> Doch die Weise, was sie leise
+      <br> mir/dir vertraut</p>
+      <p>
+      <span class="speaker">Walther:</span> im stillen Raum,</p>
+      <p>
+      <span class="speaker">Beide:</span> hell und laut,
+      <br> in der Meister vollem Kreis</p>
+      <p>
+      <span class="speaker">Walther:</span> werbe sie um den h&ouml;chsten Preis!</p>
+      <p>
+      <span class="speaker">Eva:</span> deute sie auf den h&ouml;chsten Preis!</p>
+      <p>
+      <span class="speaker">Sachs:</span> dran zu deuten wag' ich kaum.
+      <br> Diese Weise, was sie leise
+      <br> mir anvertraut' im stillen Raum,
+      <br> sagt mir laut:
+      <br> auch der Jugend ew'ges Reis
+      <br> gr&uuml;nt nur durch des Dichters Preis.</p>
+      <p>
+      <span class="speaker">Magdalene und David:</span> &lsquo;s ist wohl nur ein Morgentraum?
+      <br> Was ich seh', begreif' ich kaum!</p>
+      <p>
+      <span class="speaker">David:</span> Ward zur Stelle gleich Geselle?
+      <br> Lene Braut?
+      <br> Im Kirchenraum wir gar getraut?
+      <br> &lsquo;s geht der Kopf mir wie im Kreis,
+      <br> da&szlig; Meister gar bald ich hei&szlig;'!</p>
+      <p>
+      <span class="speaker">Magdalene:</span> Er zur Stelle gleich Geselle?
+      <br> Ich die Braut?
+      <br> Im Kirchenraum wir gar getraut?
+      <br> Ja, wahrhaftig! &lsquo;s geht:
+      <br> wer wei&szlig;,
+      <br> da&szlig; ich die Meist'rin bald hei&szlig;'!</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(zu den &uuml;brigen sich wendend)</span>:
+      <br> Jetzt all' am Fleck!
+      <br> 
+      <span class="regie">(Zu Eva.)</span> Den Vater gr&uuml;&szlig;'!
+      <br> Auf nach der Wies', schnell auf die F&uuml;&szlig;'!</p>
+      <p>
+        <span class="regie">(Eva und Magdalene gehen.)</span>
+      </p>
+      <p class="leftmarg">
+      <span class="regie">(Zu Walther.)</span>
+      <br> Nun, Junker, kommt! Habt frohen Mut! &ndash;
+      <br> David, Gesell! Schlie&szlig;' den Laden gut!</p>
+      <p class="stage">(Als Sachs und Walther ebenfalls auf die Stra&szlig;e gehen und David &uuml;ber das Schlie&szlig;en der Ladent&uuml;r sich hermacht, wird ein Vorhang von beiden Seiten zusammengezogen, so da&szlig; im Proszenium er die Szene g&auml;nzlich verschlie&szlig;t.)</p>
+      <h4>F&uuml;nfte Szene</h4>
+      <p class="stage">(Die Vorh&auml;nge sind nach der H&ouml;he aufgezogen worden; die B&uuml;hne ist verwandelt.</p>
+      <p class="stage">Diese stellt einen freien Wiesenplan, im ferneren Hintergrunde die Stadt N&uuml;rnberg. Die Pegnitz schl&auml;ngelt sich durch den Plan, der schmale Flu&szlig; ist an den n&auml;chsten Punkten praktikabel gehalten.</p>
+      <p class="stage">Buntbeflaggte K&auml;hne setzen die ankommenden, festlich gekleideten B&uuml;rger der Z&uuml;nfte mit Frauen und Kindern, an das Ufer der Festwiese &uuml;ber. Eine erh&ouml;hte B&uuml;hne mit B&auml;nken und Sitzen darauf ist rechts zur Seite aufgeschlagen; bereits ist sie mit den Fahnen der angekommenen Z&uuml;nfte geschm&uuml;ckt; im Verlaufe stecken die Fahnentr&auml;ger der noch ankommenden Z&uuml;nfte ihre Fahnen ebenfalls um die S&auml;ngerb&uuml;hne auf so da&szlig; diese schlie&szlig;lich nach drei Seiten hin ganz davon eingefa&szlig;t ist. Zelte mit Getr&auml;nken und Erfrischungen aller Art begrenzen im &uuml;brigen die Seiten des vorderen Hauptraumes. Vor den Zelten geht es bereits lustig her:</p>
+      <p class="stage">B&uuml;rger mit Frauen, Kindern und Gesellen sitzen und lagern daselbst. Die Lehrbuben der Meistersinger, festlich gekleidet, mit Blumen und B&auml;ndern reich und anmutig geschm&uuml;ckt, &uuml;ben mit schlanken St&auml;ben, die ebenfalls mit Blumen und B&auml;ndern geziert sind, in lustiger Weise das Amt von Herolden und Marsch&auml;llen aus. Sie empfangen die am Ufer Aussteigenden, ordnen die Z&uuml;ge der Z&uuml;nfte und geleiten diese nach der S&auml;ngerb&uuml;hne, von wo aus, nachdem der Bannertr&auml;ger die Fahne aufgepflanzt, die Zunftb&uuml;rger und Gesellen sich unter den Zelten zerstreuen. Soeben werden die Schuster am Ufer empfangen und nach dem Vordergrunde geleitet.)</p>
+      <p>
+      <span class="speaker">Die Schuster</span> 
+      <span class="regie">(mit fliegender Fahne aufziehend)</span>:
+      <br> Sankt Krispin, lobet ihn!
+      <br> War gar ein heilig' Mann,
+      <br> zeigt', was ein Schuster kann.
+      <br> Die Armen hatten gute Zeit,
+      <br> macht' ihnen warme Schuh';
+      <br> und wenn ihm keiner &lsquo;s Leder leiht,
+      <br> so stahl er sich's dazu.
+      <br> Der Schuster hat ein weit Gewissen,
+      <br> macht Schuhe selbst mit Hindernissen;
+      <br> und ist vom Gerber das Fell erst weg,
+      <br> dann streck, streck, streck!
+      <br> Leder taugt nur am rechten Fleck.</p>
+      <p>
+        <span class="regie">(Die Stadtw&auml;chter und Heerhornbl&auml;ser mit Trompeten und Trommeln sowie die Stadtpfeifer, Lautenmacher usw. ziehen, auf ihren Instrumenten spielend, auf. Ihnen folgen Gesellen mit Kinderinstrumenten.)</span>
+      </p>
+      <p>
+      <span class="speaker">Die Schneider</span> 
+      <span class="regie">(mit fliegender Fahne aufziehend)</span>:
+      <br> Als N&uuml;rnberg belagert war
+      <br> und Hungersnot sich fand,
+      <br> w&auml;r' Stadt und Volk verdorben gar,
+      <br> war nicht ein Schneider zur Hand,
+      <br> der viel Mut hatt' und Verstand.
+      <br> Hat sich in ein Bocksfell eingen&auml;ht,
+      <br> auf dem Stadtwall da spazierengeht
+      <br> und macht wohl seine Spr&uuml;nge
+      <br> gar lustig guter Dinge.
+      <br> Der Feind, der sieht's und zieht vom Fleck:
+      <br> der Teufel hol' die Stadt sich weg,
+      <br> hat's drin noch so lustige Meck-meck-meck!
+      <br> Meck! Meck! Meck!
+      <br> Wer glaubt's, da&szlig; ein Schneider im Bocke steck'!</p>
+      <p>
+      <span class="speaker">Die B&auml;cker</span> 
+      <span class="regie">(ziehen mit fliegender Fahne auf)</span>:
+      <br> Hungersnot! Hungersnot!
+      <br> Das ist ein greulich Leiden!
+      <br> G&auml;b' euch der B&auml;cker nicht t&auml;glich Brot,
+      <br> m&uuml;&szlig;t' alle Welt verscheiden.
+      <br> Beck! Beck! Beck!
+      <br> T&auml;glich auf dem Fleck!
+      <br> Nimm uns den Hunger weg!</p>
+      <p>
+      <span class="speaker">Die Schuster</span> 
+      <span class="regie">(welche ihre Fahne aufgesteckt, begegnen beim Herabschreiten von der S&auml;ngerb&uuml;hne den B&auml;ckern)</span>:
+      <br> Streck! Streck! Streck!
+      <br> Leder taugt nur am rechten Fleck.</p>
+      <p>
+      <span class="speaker">Die Schneider</span> 
+      <span class="regie">(nachdem die Fahne aufgesteckt, herabschreitend)</span>:
+      <br> Meck! Meck! Meck!
+      <br> Wer meint, da&szlig; ein Schneider im Bocke steck'!</p>
+      <p>
+        <span class="regie">(Ein bunter Kahn mit jungen M&auml;dchen in reicher b&auml;uerischer Tracht kommt an.)</span>
+      </p>
+      <p>
+      <span class="speaker">Lehrbuben</span> 
+      <span class="regie">(laufen nach dem Gestade)</span>:
+      <br> ' Herrje! Herrje! M&auml;del von F&uuml;rth!
+      <br> Stadtpfeifer, spielt, da&szlig;'s lustig wird!</p>
+      <p>
+        <span class="regie">(Sie heben die M&auml;dchen aus dem Kahn.)</span>
+      </p>
+      <p class="stage">(Das Charakteristische des Tanzes, mit welchem die Lehrbuben und M&auml;dchen zun&auml;chst nach dem Vordergrund kommen, besteht darin, da&szlig; die Lehrbuben die M&auml;dchen scheinbar nur an den Platz bringen wollen; sowie die Gesellen zugreifen wollen, ziehen die Buben die M&auml;dchen aber immer wieder zur&uuml;ck, als ob sie sie anderswo unterbringen wollten, wobei sie den ganzen Kreis, wie w&auml;hlend, ausmessen und somit die scheinbare Absicht anmutig und lustig verz&ouml;gern.)</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(kommt vom Landungsplatz vor und sieht mi&szlig;billigend dem Tanze zu)</span>:
+      <br> Ihr tanzt? Was werden die Meister sagen?
+      <br> 
+      <span class="regie">(Die Lehrbuben drehen ihm Nasen.)</span>
+      <br> H&ouml;rt nicht? &ndash; La&szlig; ich mir's auch behagen!</p>
+      <p>
+        <span class="regie">(Er nimmt sich ein junges, sch&ouml;nes M&auml;dchen und ger&auml;t im Tanze mit ihr schnell in gro&szlig;es Feuer. Die Zuschauer freuen sich und lachen.)</span>
+      </p>
+      <p>
+      <span class="speaker">Einige Lehrbuben</span> 
+      <span class="regie">(winken David)</span>:
+      <br> David! David! Die Lene sieht zu!</p>
+      <p>
+      <span class="speaker">David</span> 
+      <span class="regie">(l&auml;&szlig;t das M&auml;dchen erschrocken fahren, um das die Lehrbuben sogleich tanzend einen Kreis schlie&szlig;en. Da er Lene nirgends gewahrt, merkt David, da&szlig; er nur geneckt worden, durchbricht den Kreis, erfa&szlig;t sein M&auml;dchen wieder und tanzt noch feuriger weiter)</span>:
+      <br> Ach, la&szlig;t mich mit euren Possen in Ruh'!</p>
+      <p>
+        <span class="regie">(Die Buben suchen ihm das M&auml;dchen zu entrei&szlig;en, er wendet sich mit ihr jedesmal gl&uuml;cklich ab, so da&szlig; nun ein &auml;hnliches Spiel entsteht wie zuvor, als die Gesellen nach den M&auml;dchen fa&szlig;ten.)</span>
+      </p>
+      <p>
+      <span class="speaker">Gesellen</span> 
+      <span class="regie">(vom Ufer her)</span>:
+      <br> Die Meistersinger!</p>
+      <p>
+      <span class="speaker">Lehrbuben:</span> Die Meistersinger!</p>
+      <p>
+        <span class="regie">(Sie unterbrechen schnell den Tanz und eilen zum Ufer.)</span>
+      </p>
+      <p>
+      <span class="speaker">David:</span> Herrgott! Ade, ihr h&uuml;bschen Dinger!</p>
+      <p>
+        <span class="regie">(Er gibt dem M&auml;dchen einen feurigen Ku&szlig; und rei&szlig;t sich los.</span>
+      </p>
+      <p>
+        <span class="regie">Die Lehrbuben reihen sich zum Empfang der Meistersinger. Das Volk macht ihnen willig Platz.</span>
+      </p>
+      <p>
+        <span class="regie">Die Meistersinger ordnen sich am Landungsplatze zum festlichen Aufzuge.</span>
+      </p>
+      <p class="stage">Wenn Kothner im Vordergrunde ankommt, wird die geschwungene Fahne, auf welcher K&ouml;nig David mit der Harfe abgebildet ist, von allem Volk mit Hutschwenken begr&uuml;&szlig;t.</p>
+      <p class="stage">Der Zug der Meistersinger ist nun auf der Singerb&uuml;hne angelangt, wo Kothner die Fahne aufpflanzt. Pogner, Eva an der Hand f&uuml;hrend, diese von festlich geschm&uuml;ckten, reich gekleideten jungen M&auml;dchen, unter denen auch Magdalene, begleitet, voran.</p>
+      <p class="stage">Als Eva, von den M&auml;dchen umgeben, den mit Blumen geschm&uuml;ckten Ehrenplatz eingenommen und alle &uuml;brigen, die Meister auf den B&auml;nken, die Gesellen hinter ihnen stehend, ebenfalls Platz genommen, treten die Lehrbuben, dem Volke zugewendet, feierlich vor die B&uuml;hne in Reih und Glied.)</p>
+      <p>
+      <span class="speaker">Lehrbuben:</span> Silentium! Silentium!</p>
+      <p>
+        <span class="regie">(Sachs erhebt sich und tritt vor. Bei seinem Anblick st&ouml;&szlig;t sich alles an; H&uuml;te und M&uuml;tzen werden abgezogen. Alle deuten auf ihn.)</span>
+      </p>
+      <p class="leftmarg">
+      <br> Macht kein Reden und kein Gesumm'.</p>
+      <p>
+      <span class="speaker">Einige im Volk:</span> Ha! Sachs! &lsquo;s ist Sachs!
+      <br> Seht Meister Sachs!</p>
+      <p>
+      <span class="speaker">Mehrere:</span> Stimmt an! Stimmt an!</p>
+      <p class="stage">(Alle Sitzenden erheben sich; die M&auml;nner bleiben mit entbl&ouml;&szlig;tem Haupte. Beckmesser bleibt, mit dem Memorieren des Gedichtes besch&auml;ftigt, hinter den anderen Meistern versteckt, so da&szlig; er bei dieser Gelegenheit der Beachtung des Publikums entzogen wird.)</p>
+      <p>
+      <span class="speaker">Alle</span> 
+      <span class="regie">(au&szlig;er Sachs)</span>:
+      <br> Wach' auf, es nahet gen den Tag,
+      <br> ich h&ouml;r' singen im gr&uuml;nen Hag
+      <br> ein' wonnigliche Nachtigal,
+      <br> ihr' Stimm' durchdringet Berg und Tal;
+      <br> die Nacht neigt sich zum Okzident,
+      <br> der Tag geht auf von Orient,
+      <br> die rotbr&uuml;nstige Morgenr&ouml;t'
+      <br> her durch die tr&uuml;ben Wolken geht.&laquo;</p>
+      <p class="stage">(Das Volk nimmt wieder eine jubelnd bewegte Haltung an und singt nun allein. Die Meister auf der B&uuml;hne sowie die anderen Teilnehmer am Gesange geben sich dem Schauspiele des Volksjubels hin.)</p>
+      <p class="leftmarg">
+      <br> Heil Sachs! Heil dir, Sachs!
+      <br> Heil N&uuml;rnbergs teurem Sachs! Heil! Heil!</p>
+      <p class="stage">(Sachs, der unbeweglich, wie geistesabwesend, &uuml;ber die Menge hinweg geblickt hatte, richtet endlich seine Blicke vertrauter auf sie und beginnt mit ergriffener; schnell sich festigender Stimme.)</p>
+      <p>
+      <span class="speaker">Sachs:</span> Euch macht Ihr's leicht, mir macht Ihr's schwer,
+      <br> gebt Ihr mir Armen zuviel Ehr'.
+      <br> Soll vor der Ehr' ich besteh'n,
+      <br> sei's, mich von Euch geliebt zu seh'n!
+      <br> Schon gro&szlig;e Ehr' ward mir erkannt,
+      <br> ward heut' ich zum Spruchsprecher ernannt.
+      <br> Und was mein Spruch Euch k&uuml;nden soll,
+      <br> glaubt, das ist hoher Ehren voll!
+      <br> Wenn Ihr die Kunst so hoch schon ehrt,
+      <br> da galt es zu beweisen,
+      <br> da&szlig;, wer ihr selbst gar angeh&ouml;rt,
+      <br> sie sch&auml;tzt ob allen Preisen.
+      <br> Ein Meister, reich und hochgemut,
+      <br> der will heut' Euch das zeigen:
+      <br> sein T&ouml;chterlein, sein h&ouml;chstes Gut,
+      <br> mit allem Hab und Eigen,
+      <br> dem Singer, der im Kunstgesang
+      <br> vor allem Volk den Preis errang,
+      <br> als h&ouml;chsten Preises Kron'
+      <br> er bietet das zum Lohn.
+      <br> Darum so h&ouml;rt und stimmt mir bei:
+      <br> die Werbung steh' dem Dichter frei.
+      <br> Ihr Meister, die Ihr's Euch getraut,
+      <br> Euch ruf' ich's vor dem Volke laut:
+      <br> erw&auml;gt der Werbung seltnen Preis,
+      <br> und wem sie soll gelingen,
+      <br> da&szlig; der sich rein und edel wei&szlig;
+      <br> im Werben wie im Singen,
+      <br> will er das Reis erringen,
+      <br> das nie bei Neuen noch bei Alten
+      <br> ward je so herrlich hoch gehalten
+      <br> als von der lieblich Reinen,
+      <br> die niemals soll beweinen,
+      <br> da&szlig; N&uuml;renberg mit h&ouml;chstem Wert
+      <br> die Kunst und ihre Meister ehrt.</p>
+      <p>
+        <span class="regie">(Gro&szlig;e Bewegung unter allen. Sachs geht auf Pogner zu, der ihm ger&uuml;hrt die Hand dr&uuml;ckt.)</span>
+      </p>
+      <p>
+      <span class="speaker">Pogner:</span> O Sachs! Mein Freund! Wie dankenswert!
+      <br> Wie wi&szlig;t Ihr, was mein Herz beschwert!</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(zu Pogner)</span>:
+      <br> &lsquo;s war viel gewagt! Jetzt habt nur Mut!</p>
+      <p>
+        <span class="regie">(Er wendet sich zu Beckmesser, der fortw&auml;hrend eifrig das Blatt mit dem Gedicht herausgezogen, memoriert, genau zu lesen versucht und oft verzweiflungsvoll sich den Schwei&szlig; getrocknet hat.)</span>
+      </p>
+      <p class="leftmarg">
+      <br> Herr Merker! Sagt, wie steht es? Gut?</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> O dieses Lied! Werd' nicht draus klug
+      <br> und hab' doch dran studiert genug!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Mein Freund, &lsquo;s ist Euch nicht aufgezwungen.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Was hilft's? &ndash; Mit dem meinen ist doch versungen!
+      <br> &lsquo;s war Eure Schuld! Jetzt seid h&uuml;bsch f&uuml;r mich!
+      <br> &lsquo;s w&auml;r' sch&auml;ndlich, lie&szlig;t Ihr mich im Stich!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ich d&auml;cht', Ihr g&auml;bt's auf.</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Warum nicht gar?
+      <br> Die and'ren sing' ich alle zu Paar', wenn Ihr nur nicht singt!</p>
+      <p>
+      <span class="speaker">Sachs:</span> So seht, wie's geht!</p>
+      <p>
+      <span class="speaker">Beckmesser:</span> Das Lied! &ndash; bin's sicher &ndash; zwar niemand versteht;
+      <br> doch bau' ich auf Eure Popularit&auml;t.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Nun denn, wenn's Meistern und Volk beliebt, zum Wettgesang man den Anfang gibt.</p>
+      <p>
+      <span class="speaker">Kothner</span> 
+      <span class="regie">(tritt vor)</span>:
+      <br> Ihr ledig' Meister, macht Euch bereit!
+      <br> Der &Auml;ltest' sich zuerst anl&auml;&szlig;t:
+      <br> Herr Beckmesser, Ihr fangt an, &lsquo;s ist Zeit!</p>
+      <p>
+        <span class="regie">(Die Lehrbuben f&uuml;hren Beckmesser zu einem kleinen Rasenh&uuml;gel vor der Singerb&uuml;hne, welchen sie zuvor festgerammt und reich mit Blumen &uuml;berdeckt haben.)</span>
+      </p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(strauchelt darauf, tritt unsicher und schwankt)</span>:
+      <br> Zum Teufel! Wie wackelig! Macht das h&uuml;bsch fest!</p>
+      <p>
+        <span class="regie">(Die Buben lachen unter sich und stopfen lustig am Rasen.)</span>
+      </p>
+      <p>
+      <span class="speaker">Das Volk</span> 
+      <span class="regie">(st&ouml;&szlig;t sich gegenseitig lustig an)</span>:
+      <br> Wie, der? Der wirbt? Scheint mir nicht der Rechte!
+      <br> An der Tochter Stell' ich den nicht m&ouml;chte.
+      <br> Seid still! &lsquo;s ist gar ein t&uuml;cht'ger Meister!
+      <br> Still! Macht keinen Witz;
+      <br> der hat im Rate Stimm' und Sitz.
+      <br> Ach, der kann ja nicht mal steh'n.
+      <br> Wie soll es mit dem geh'n?
+      <br> Er f&auml;llt fast um! Gott, ist der dumm!
+      <br> Stadtschreiber ist er:
+      <br> Beckmesser hei&szlig;t er.</p>
+      <p>
+        <span class="regie">(Viele lachen.)</span>
+      </p>
+      <p>
+      <span class="speaker">Die Lehrbuben</span> 
+      <span class="regie">(in Aufstellung)</span>:
+      <br> Silentium! Silentium!
+      <br> Macht kein Reden und kein Gesumm!</p>
+      <p>
+      <span class="speaker">Kothner:</span> Fanget an!</p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(der sich endlich mit M&uuml;he auf dem Rasenh&uuml;gel festgestellt hat, macht eine erste Verbeugung gegen die Meister, eine zweite gegen das Volk, dann gegen Eva, auf welche er, da sie sich abwendet, nochmals verlegen hinblinzelt,' gro&szlig;e Beklommenheit erfa&szlig;t ihn; er sucht sich durch das Vorspiel auf der Laute zu ermutigen.)</span>:
+      <br> &raquo;Morgen ich leuchte in rosigem Schein,
+      <br> von Blut und Duft geht schnell die Luft; &ndash;
+      <br> wohl bald gewonnen wie zerronnen &ndash;
+      <br> im Garten lud ich ein &ndash; garstig und fein.&laquo;</p>
+      <p>
+        <span class="regie">(Er versucht, besser auf den F&uuml;&szlig;en zu stehen. Die Meistersinger leise unter sich.)</span>
+      </p>
+      <p>
+      <span class="speaker">Foltz, Ortel:</span> Mein! Was ist das?</p>
+      <p>
+      <span class="speaker">Kothner, Nachtigall:</span> Ist er von Sinnen?</p>
+      <p>
+      <span class="speaker">Moser, Ei&szlig;linger:</span> Was ist das?</p>
+      <p>
+      <span class="speaker">Vogelgesang, Zorn:</span> Ist er von Sinnen?</p>
+      <p>
+      <span class="speaker">Foltz, Ortel, Schwarz:</span> H&ouml;chst merkw&uuml;rd'ger Fall! Was kommt ihm bei?
+      <br> Die &uuml;brigen Meister:
+      <br> Woher mocht' er solche Gedanken gewinnen?</p>
+      <p>
+      <span class="speaker">Volk</span> 
+      <span class="regie">(leise unter sich)</span>:
+      <br> Sonderbar! H&ouml;rt ihr's? Wen lud er ein?
+      <br> Verstand man recht? Wie kann das sein?</p>
+      <p>
+      <span class="speaker">Schwarz</span> 
+      <span class="regie">(allein)</span>:
+      <br> Verstand man recht?</p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(zieht das Blatt verstohlen hervor und lugt eifrig hinein; dann steckt er es &auml;ngstlich wieder ein)</span>:
+      <br> Wohn' ich ertr&auml;glich im selbigen Raum,
+      <br> hol' Gold und Frucht &ndash; Bleisaft und Wucht.
+      <br> 
+      <span class="regie">(Er lugt in das Blatt.)</span>
+      <br> Mich holt am Pranger &ndash; der Verlanger &ndash;
+      <br> auf luft'ger Steige kaum &ndash; h&auml;ng' ich am Baum.&laquo;</p>
+      <p>
+        <span class="regie">(Er wackelt wieder sehr; sucht im Blatt zu lesen, vermag es nicht,' ihm schwindelt, Angstschwei&szlig; bricht aus.)</span>
+      </p>
+      <p>
+      <span class="speaker">Das Volk:</span> Sch&ouml;ner Werber! Der find't wohl seinen Lohn:
+      <br> bald h&auml;ngt er am Galgen; man sieht ihn schon.</p>
+      <p>
+      <span class="speaker">Kothner</span> 
+      <span class="regie">(zu Nachtigall)</span>:
+      <br> Was soll das hei&szlig;en?</p>
+      <p>
+      <span class="speaker">Zorn, Ei&szlig;linger, Nachtigall:</span> Was soll das hei&szlig;en?</p>
+      <p>
+      <span class="speaker">Vogelgesang, Moser, Kothner:</span> Ist er nur toll?</p>
+      <p>
+      <span class="speaker">Foltz, Schwarz:</span> Wie? Ist er nur toll?</p>
+      <p>
+      <span class="speaker">Zorn, Ei&szlig;linger, Vogelgesang, Moser, Nachtigall, Kothner:</span> Sein Lied ist ganz von Unsinn voll!</p>
+      <p>
+      <span class="speaker">Ortel, Foltz, Schwarz:</span> Alles von Unsinn voll!</p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(rafft sich verzweiflungsvoll und ingrimmig auf)</span>:
+      <br> &raquo;Heimlich mir graut,
+      <br> weil hier es munter will hergeh'n:
+      <br> an meiner Leiter stand ein Weib,
+      <br> sie sch&auml;mt' und wollt' mich nicht beseh'n.
+      <br> Bleich wie ein Kraut
+      <br> umfasset mir Hanf meinen Leib; &ndash;
+      <br> mit Augen zwinkend &ndash; der Hund blies winkend &ndash;
+      <br> was ich vor langem verzehrt &ndash;
+      <br> wie Frucht, so Holz und Pferd &ndash;
+      <br> vom Leberbaum.&laquo;</p>
+      <p>
+        <span class="regie">(Alles bricht in ein dr&ouml;hnendes Gel&auml;chter aus.)</span>
+      </p>
+      <p>
+      <span class="speaker">Beckmesser</span> 
+      <span class="regie">(verl&auml;&szlig;t w&uuml;tend den H&uuml;gel und st&uuml;rzt auf Sachs zu)</span>:
+      <br> Verdammter Schuster, das dank' ich dir!
+      <br> Das Lied, es ist gar nicht von mir.
+      <br> Von Sachs, der hier so hoch verehrt,
+      <br> von Eurem Sachs ward mir's beschert!
+      <br> Mich hat der Sch&auml;ndliche bedr&auml;ngt,
+      <br> sein schlechtes Lied mir aufgeh&auml;ngt.</p>
+      <p>
+        <span class="regie">(Er st&uuml;rzt w&uuml;tend fort und verliert sich unter dem Volke.)</span>
+      </p>
+      <p>
+      <span class="speaker">Volk:</span> Mein! Was soll das sein? Jetzt wird's immer bunter!
+      <br> Von Sachs das Lied? Das n&auml;hm' uns doch wunder!</p>
+      <p>
+      <span class="speaker">Kothner:</span> Erkl&auml;rt doch, Sachs!</p>
+      <p>
+      <span class="speaker">Nachtigall:</span> Welch ein Skandal!</p>
+      <p>
+      <span class="speaker">Vogelgesang:</span> Von Euch das Lied?</p>
+      <p>
+      <span class="speaker">Ortel und Foltz:</span> Welch eig'ner Fall!</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(hat ruhig das Blatt, welches ihm Beckmesser hingeworfen, aufgenommen)</span>:
+      <br> Das Lied f&uuml;rwahr ist nicht von mir.
+      <br> Herr Beckmesser irrt wie dort so hier!
+      <br> Wie er dazu kam, mag selbst er sagen;
+      <br> doch m&ouml;cht' ich nie mich zu r&uuml;hmen wagen,
+      <br> ein Lied, so sch&ouml;n wie dies erdacht,
+      <br> sei von mir, Hans Sachs, gemacht.</p>
+      <p>
+      <span class="speaker">Vogelgesang, Zorn, Kothner:</span> Wie? Sch&ouml;n? Dieser Unsinnswust!</p>
+      <p>
+      <span class="speaker">Nachtigall:</span> Das Lied w&auml;r' sch&ouml;n? Dieser Unsinnswust!</p>
+      <p>
+      <span class="speaker">Volk:</span> H&ouml;rt, Sachs macht Spa&szlig;! Er sagt es nur zur Lust.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Ich sag' Euch Herrn, das Lied ist sch&ouml;n:
+      <br> nur ist's auf den ersten Blick zu ersehn,
+      <br> da&szlig; Freund Beckmesser es entstellt.
+      <br> Doch schw&ouml;r' ich, da&szlig; es Euch gef&auml;llt,
+      <br> wenn richtig Wort' und Weise
+      <br> hier einer s&auml;ng' im Kreise.
+      <br> Und wer dies verst&uuml;nd', zugleich bewies',
+      <br> da&szlig; er des Liedes Dichter
+      <br> und gar mit Rechte Meister hie&szlig;',
+      <br> f&auml;nd' er gerechte Richter.
+      <br> Ich bin verklagt und mu&szlig; besteh'n:
+      <br> drum la&szlig;t mich meinen Zeugen auserseh'n!
+      <br> Ist jemand hier, der Recht mir wei&szlig;,
+      <br> der tret' als Zeug' in diesen Kreis!</p>
+      <p class="stage">(Walther tritt aus dem Volke hervor und begr&uuml;&szlig;t Sachs, sodann Meister und Volk mit ritterlicher Freundlichkeit. Es entsteht sogleich eine angenehme Bewegung. Alles weilt einen Augenblick schweigend in seiner Betrachtung.)</p>
+      <p class="leftmarg">
+      <br> So zeuget, das Lied sei nicht von mir,
+      <br> und zeuget auch, da&szlig;, was ich hier
+      <br> vom Lied hab' gesagt, zuviel nicht sei gewagt.</p>
+      <p>
+      <span class="speaker">Ortel und Foltz:</span> Wie fein ist Sachs!</p>
+      <p>
+      <span class="speaker">Vogelgesang, Zorn, Ei&szlig;linger:</span> Ei Sachs, Ihr seid gar fein!
+      <br> Doch mag es heut' geschehen sein!</p>
+      <p>
+      <span class="speaker">Nachtigall und Kothner:</span> Wie fein! Doch mag es heut' geschehen sein!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Der Regel G&uuml;te daraus man erw&auml;gt,
+      <br> da&szlig; sie auch mal &lsquo;ne Ausnahm' vertr&auml;gt.</p>
+      <p>
+      <span class="speaker">Das Volk:</span> Ein guter Zeuge, stolz und k&uuml;hn!
+      <br> Mich d&uuml;nkt, dem kann wohl was Gut's erbl&uuml;hn.</p>
+      <p>
+      <span class="speaker">Sachs:</span> Meister und Volk sind gewillt
+      <br> zu vernehmen, was mein Zeuge gilt.
+      <br> Herr Walther von Stolzing, singt das Lied!
+      <br> Ihr Meister lest, ob's ihm geriet.</p>
+      <p>
+        <span class="regie">(Er &uuml;bergibt Kothner das Blatt zum Nachlesen.)</span>
+      </p>
+      <p>
+      <span class="speaker">Die Lehrbuben</span> 
+      <span class="regie">(in Aufstellung)</span>:
+      <br> Alles gespannt! &lsquo;s gibt kein Gesumm.
+      <br> Da rufen wir auch nicht Silentium!</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(beschreitet festen Schrittes den kleinen Blumenh&uuml;gel)</span>:
+      <br> &raquo;Morgenlich leuchtend in rosigem Schein,
+      <br> von Bl&uuml;t' und Duft geschwellt die Luft,
+      <br> voll aller Wonnen, nie ersonnen,
+      <br> ein Garten lud mich ein &ndash;</p>
+      <p>
+        <span class="regie">(Kothner l&auml;&szlig;t das Blatt, in welchem er mit den anderen Meistern eifrig nachzulesen begonnen, vor Ergriffenheit unwillk&uuml;rlich fallen; er und die &uuml;brigen h&ouml;ren nur noch teilnahmsvoll zu. Wie entr&uuml;ckt.)</span>
+      </p>
+      <p class="leftmarg">
+      <br> dort unter einem Wunderbaum,
+      <br> von Fr&uuml;chten reich behangen,
+      <br> zu schaun in sel'gem Liebestraum,
+      <br> was h&ouml;chstem Lustverlangen
+      <br> Erf&uuml;llung k&uuml;hn verhie&szlig; &ndash;
+      <br> das sch&ouml;nste Weib, Eva im Paradies.&laquo;</p>
+      <p>
+      <span class="speaker">Das Volk</span> 
+      <span class="regie">(leise fl&uuml;sternd)</span>:
+      <br> Das ist was andres! Wer h&auml;tt's gedacht?
+      <br> Was doch recht Wort und Vortrag macht!</p>
+      <p>
+      <span class="speaker">Die Meistersinger</span> 
+      <span class="regie">(ohne Foltz und Schwarz, leise fl&uuml;sternd)</span>:
+      <br> Jawohl! Ich merk'! &lsquo;s ist ein ander Ding,</p>
+      <p>
+      <span class="speaker">Sachs:</span> Zeuge am Ort, fahret fort!</p>
+      <p>
+      <span class="speaker">Walther:</span> &raquo;Abendlich d&auml;mmernd umschlo&szlig; mich die Nacht;
+      <br> auf steilem Pfad war ich genaht
+      <br> zu einer Quelle reiner Welle,
+      <br> die lockend mir gelacht:
+      <br> dort unter einem Lorbeerbaum,
+      <br> von Sternen hell durchschienen,
+      <br> ich schaut' im wachen Dichtertraum
+      <br> von heilig holden Mienen,
+      <br> mich netzend mit dem edlen Na&szlig;,
+      <br> das hehrste Weib,
+      <br> die Muse des Parna&szlig;.&laquo;</p>
+      <p>
+      <span class="speaker">Das Volk</span> 
+      <span class="regie">(immer leiser, f&uuml;r sich)</span>:
+      <br> Wie so hold und traut, wie fern es schwebt,
+      <br> doch ist es grad', als ob man selber alles miterlebt!</p>
+      <p>
+      <span class="speaker">Vogelgesang, Zorn, Moser, Ei&szlig;linger:</span> &lsquo;s ist k&uuml;hn und seltsam, das ist wahr;
+      <br> doch wohlgereimt und singebar.</p>
+      <p>
+      <span class="speaker">Kothner, Nachtigall:</span> K&uuml;hn ist's und seltsam.
+      <br> Doch wohlgereimt und singebar.</p>
+      <p>
+      <span class="speaker">Ortel:</span> Sehr seltsam!</p>
+      <p>
+      <span class="speaker">Foltz:</span> &lsquo;s ist k&uuml;hn und seltsam, das ist wohl wahr.</p>
+      <p>
+      <span class="speaker">Schwarz:</span> Sehr k&uuml;hn!</p>
+      <p>
+      <span class="speaker">Sachs:</span> Zeuge wohl erkiest, fahret fort und schlie&szlig;t!</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(sehr feurig)</span>:
+      <br> &raquo;Huldreichster Tag,
+      <br> dem ich aus Dichters Traum erwacht!
+      <br> Das ich ertr&auml;umt, das Paradies,
+      <br> in himmlisch neu verkl&auml;rter Pracht
+      <br> hell vor mir lag,
+      <br> dahin lachend nun der Quell den Pfad mir wies:
+      <br> die dort geboren, mein Herz erkoren,
+      <br> der Erde lieblichstes Bild,
+      <br> als Muse mir geweiht,
+      <br> so heilig ernst als mild,
+      <br> ward k&uuml;hn von mir gefreit,
+      <br> am lichten Tag der Sonnen
+      <br> durch Sanges Sieg gewonnen
+      <br> Parna&szlig; und Paradies!&laquo;</p>
+      <p>
+      <span class="speaker">Volk:</span> Gewiegt wie in den sch&ouml;nsten Traum,
+      <br> h&ouml;r' ich es wohl, doch fa&szlig; es kaum.
+      <br> 
+      <span class="regie">(Zu Eva.)</span>
+      <br> Reich ihm das Reis! Sein sei der Preis!
+      <br> Keiner wie er zu werben wei&szlig;!</p>
+      <p>
+      <span class="speaker">Die Meister</span> 
+      <span class="regie">(sich erhebend)</span>:
+      <br> Ja, holder S&auml;nger!
+      <br> Nimm das Reis!
+      <br> Dein Sang erwarb dir Meisterpreis!
+      <br> Keiner so wie nur er zu werben wei&szlig;!</p>
+      <p>
+      <span class="speaker">Pogner</span> 
+      <span class="regie">(mit gro&szlig;er Ergriffenheit zu Sachs sich wendend)</span>:
+      <br> O Sachs! Dir dank' ich Gl&uuml;ck und Ehr'!
+      <br> Vor&uuml;ber nun all Herzbeschwer!</p>
+      <p>
+        <span class="regie">(Walther ist auf die Stufen der Singerb&uuml;hne geleitet worden und l&auml;&szlig;t sich vor Eva auf ein Knie nieder.)</span>
+      </p>
+      <p>
+      <span class="speaker">Eva</span> 
+      <span class="regie">(zu Walther, indem sie ihn mit einem Kranz aus Lorbeer und Myrten bekr&auml;nzt, sich hinabneigend)</span>:
+      <br> Keiner wie du so hold zu werben wei&szlig;!</p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(zum Volk gewandt, auf Walther und Eva deutend)</span>:
+      <br> Den Zeugen, denk es, w&auml;hlt' ich gut:
+      <br> tragt Ihr Hans Sachs drum &uuml;blen Mut?</p>
+      <p>
+      <span class="speaker">Volk</span> 
+      <span class="regie">(bricht schnell und heftig in jubelnde Bewegung aus)</span>:
+      <br> Hans Sachs! Nein! Das war sch&ouml;n erdacht!
+      <br> Das habt Ihr einmal wieder gut gemacht!</p>
+      <p>
+      <span class="speaker">Meistersinger</span> 
+      <span class="regie">(sich feierlich zu Pogner wendend)</span>:
+      <br> Auf, Meister Pogner! Euch zum Ruhm
+      <br> meldet dem Junker sein Meistertum.</p>
+      <p>
+      <span class="speaker">Pogner</span> 
+      <span class="regie">(mit einer goldnen Kette, daran drei gro&szlig;e Denkm&uuml;nzen, zu Walther)</span>:
+      <br> Geschm&uuml;ckt mit K&ouml;nig Davids Bild,
+      <br> nehm' ich Euch auf in der Meister Gild'.</p>
+      <p>
+      <span class="speaker">Walther</span> 
+      <span class="regie">(mit schmerzlicher Heftigkeit abweisend)</span>:
+      <br> Nicht Meister! Nein!
+      <br> 
+      <span class="regie">(Er blickt z&auml;rtlich auf Eva.)</span>
+      <br> Will ohne Meister selig sein!</p>
+      <p>
+        <span class="regie">(Alles blickt in gro&szlig;er Betroffenheit auf Sachs.)</span>
+      </p>
+      <p>
+      <span class="speaker">Sachs</span> 
+      <span class="regie">(schreitet auf Walther zu und fa&szlig;t ihn bedeutungsvoll bei der Hand)</span>:
+      <br> Verachtet mir die Meister nicht
+      <br> und ehrt mir ihre Kunst!
+      <br> Was ihnen hoch zum Lobe spricht,
+      <br> fiel reichlich Euch zur Gunst!
+      <br> Nicht Euren Ahnen, noch so wert,
+      <br> nicht Eurem Wappen, Speer noch Schwert,
+      <br> da&szlig; Ihr ein Dichter seid,
+      <br> ein Meister Euch gefreit,
+      <br> dem dankt Ihr heut' Eu'r h&ouml;chstes Gl&uuml;ck.
+      <br> Drum, denkt mit Dank Ihr d'ran zur&uuml;ck,
+      <br> wie kann die Kunst wohl unwert sein,
+      <br> die solche Preise schlie&szlig;et ein?
+      <br> Da&szlig; uns're Meister sie gepflegt,
+      <br> grad' recht nach ihrer Art,
+      <br> nach ihrem Sinne treu gehegt,
+      <br> das hat sie echt bewahrt.
+      <br> Blieb sie nicht adlig wie zur Zeit,
+      <br> wo H&ouml;f' und F&uuml;rsten sie geweiht,
+      <br> im Drang der schlimmen Jahr'
+      <br> blieb sie doch deutsch und wahr;
+      <br> und w&auml;r' sie anders nicht gegl&uuml;ckt,
+      <br> als wie, wo alles dr&auml;ngt und dr&uuml;ckt,
+      <br> Ihr seht, wie hoch sie blieb in Ehr'!
+      <br> Was wollt Ihr von den Meistern mehr?
+      <br> Habt acht! Uns dr&auml;uen &uuml;ble Streich'!
+      <br> Zerf&auml;llt erst deutsches Volk und Reich,
+      <br> in falscher welscher Majest&auml;t
+      <br> kein F&uuml;rst bald mehr sein Volk versteht;
+      <br> und welschen Dunst mit welschem Tand
+      <br> sie pflanzen uns in deutsches Land.
+      <br> Was deutsch und echt, w&uuml;&szlig;t' keiner mehr,
+      <br> lebt's nicht in deutscher Meister Ehr'.
+      <br> Drum sag' ich Euch:
+      <br> ehrt Eure deutschen Meister,
+      <br> dann bannt Ihr gute Geister!
+      <br> Und gebt Ihr ihrem Wirken Gunst,
+      <br> zerging' in Dunst
+      <br> das Heil'ge R&ouml;m'sche Reich,
+      <br> uns bliebe gleich
+      <br> die heil'ge deutsche Kunst!</p>
+      <p class="stage">(W&auml;hrend des Schlu&szlig;gesangs nimmt Eva den Kranz von Walthers Stirn und dr&uuml;ckt ihn Sachs auf; dieser nimmt die Kette aus Pogners Hand und h&auml;ngt sie Walther um. Nachdem Sachs das Paar umarmt, bleiben Walther und Eva zu beiden Seiten an Sachs' Schultern gest&uuml;tzt; Pogner l&auml;&szlig;t sich, wie huldigend, auf ein Knie vor Sachs nieder. Die Meistersinger deuten auf Sachs als auf ihr Haupt)</p>
+
+      <p>
+
+      <span class="speaker">Alle:</span> Ehrt Eure deutschen Meister,
+
+      <br> dann bannt Ihr gute Geister!
+
+      <br> Und gebt Ihr ihrem Wirken Gunst,
+
+      <br> zerging' in Dunst
+
+      <br> das Heil'ge R&ouml;m'sche Reich,
+
+      <br> uns bliebe gleich
+
+      <br> die heil'ge deutsche Kunst!</p>
+
+      <p>
+
+        <span class="regie">(Das Volk schwenkt begeistert H&uuml;te und T&uuml;cher; die Lehrbuben tanzen und schlagen jauchzend in die H&auml;nde.)</span>
+
+      </p>
+
+      <p>
+
+      <span class="speaker">Volk:</span> Heil Sachs! N&uuml;rnbergs teurem Sachs!</p>
+
+    
+</div>
+&nbsp;<a href="/buch/die-meistersinger-von-nurnberg-841/2">&lt;&lt; Kapitel 2</a>&nbsp;<script type="text/javascript">
+document.getElementsByClassName = function(cl) {
+	var retnode = [];
+	var myclass = new RegExp('\\b'+cl+'\\b');
+	var elem = this.getElementsByTagName('*');
+	for (var i = 0; i < elem.length; i++) {
+	var classes = elem[i].className;
+	if (myclass.test(classes)) retnode.push(elem[i]);
+	}
+	return retnode;
+};
+
+function strip_tags(input, allowed) {
+    allowed = (((allowed || "") + "").toLowerCase().match(/<[a-z][a-z0-9]*>/g) || []).join('');
+    var tags = /<\/?([a-z][a-z0-9]*)\b[^>]*>/gi,
+        commentsAndPhpTags = /<!--[\s\S]*?-->|<\?(?:php)?[\s\S]*?\?>/gi;
+    return input.replace(commentsAndPhpTags, '').replace(tags, function ($0, $1) {
+        return allowed.indexOf('<' + $1.toLowerCase() + '>') > -1 ? $0 : '';
+    });
+}
+
+function fussnoten_ersetzen() {
+	var footnotes = document.getElementsByClassName('footnote');
+	
+	for (var i=0; i<footnotes.length; i++) {
+		footnotes[i].innerHTML=' <a title="'+strip_tags(footnotes[i].innerHTML)+'">[Fu&szlig;note]</a>';
+	}
+}
+fussnoten_ersetzen();
+
+function doHighlight(bodyText, searchTerm, highlightStartTag, highlightEndTag) 
+{
+  var newText = "";
+  var i = -1;
+  var lcSearchTerm = searchTerm.toLowerCase();
+  var lcBodyText = bodyText.toLowerCase();
+    
+  while (bodyText.length > 0) {
+    i = lcBodyText.indexOf(lcSearchTerm, i+1);
+    if (i < 0) {
+      newText += bodyText;
+      bodyText = "";
+    } else {
+      if (bodyText.lastIndexOf(">", i) >= bodyText.lastIndexOf("<", i)) {
+        if (lcBodyText.lastIndexOf("/script>", i) >= lcBodyText.lastIndexOf("<script", i)) {
+          newText += bodyText.substring(0, i) + highlightStartTag + bodyText.substr(i, searchTerm.length) + highlightEndTag;
+          bodyText = bodyText.substr(i + searchTerm.length);
+          lcBodyText = bodyText.toLowerCase();
+          i = -1;
+        }
+      }
+    }
+  }
+  return newText;
+} 
+
+var searchArray=new Array(); 
+var ref = document.referrer;
+if (ref.indexOf('?') != -1) {
+	var qs = ref.substr(ref.indexOf('?')+1);
+	var qsa = qs.split('&');
+	for (var i=0;i<qsa.length;i++) {
+    	var qsip = qsa[i].split('=');
+  		if (qsip.length == 1) continue;
+  		if (qsip[0] == 'q' || qsip[0] == 'p') {
+	    	var wordstring = unescape(qsip[1].replace(/\+/g,' '));
+	    	searchArray = wordstring.split(/\s+/);	    	
+  		}
+	}
+}
+
+if (searchArray.length>0) {
+	var bodyText = document.getElementById('gutenb').innerHTML;
+	for (var i = 0; i < searchArray.length; i++) {
+  		if (searchArray[i]!="") {
+    		bodyText=doHighlight(bodyText, searchArray[i], "<span style='background-color:#ffff00;'>", "</span>");
+  		}
+	}
+	document.getElementById('gutenb').innerHTML = bodyText;
+} 
+</script>
+<br/><br/><br/><br/><br/>
+
+<br clear="all"/>
+</p>
+
+</div>
+	
+	</div> </div>
+	
+	<div class="column-both"><div class="gujAd unten" id="unten_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.writeAdScript('unten_1');
+	</script>
+</div>
+<br class="clearfix" /> 
+	</div><div class="top-anchor clearfix">
+		<a href="#" class="link-angle-top">TOP</a>
+	</div>
+</div>
+<script type="text/javascript">
+	var currentHpArticles = {"articles":["1258939","1259090","1259092","1258948","1259098","1259097","1259093","1258989","1259022","1258986","1258876","1259026","1259096","1258848","1259037","1210393","1259024","1259100","1259057","1258999"]};
+	$(document).ready(function() { 
+		spTriggerHpNotifier();
+	});
+</script>
+<div class="sticky-overlay clearfix">
+	<div class="closer" title="Schließen bis zum nächsten Mal" onclick="stickyClose();"></div>
+	<div class="sticky-content">
+		<div class="sticky-title">
+			Die Homepage wurde aktualisiert. <a href="https://www.spiegel.de/#ref=sticky-article">Jetzt aufrufen.</a>
+		</div>
+		<a title="Hinweis nicht mehr anzeigen." href="#" onclick="stickyOff(); return false; ">Hinweis nicht mehr anzeigen.</a>
+	</div>
+</div><div id="footer" data-sponlytics-area="footer">
+	
+	<!-- html_126274 -->
+<div class="footer-partner clearfix">
+
+    <style data-role="service-block-3plus1-formatter" type="text/css">
+        .footer-partner > ul {width: 28%; margin-left: 8%;}
+        .footer-partner .partner-freizeit {width: 100% !important;}
+        .footer-partner .partner-freizeit .partner-freizeit-headline + li {margin-rigth: 0 !important;}
+
+    </style>
+
+    <h4>Serviceangebote von SPIEGEL-ONLINE-Partnern</h4>
+
+    <!-- AUTO -->
+    <ul class="partner-auto">
+        <li>
+<h5>AUTO</h5>
+</li>
+        <li>
+<span> <a href="https://www.spiegel.de/auto/aktuell/benzinpreisvergleich-die-guenstigste-tankstelle-in-ihrer-naehe-a-185826.html" rel="nofollow">
+                    Benzinpreis </a>
+</span>
+</li>
+
+        <li>
+<span> <a href="https://www.spiegel.de/auto/aktuell/bussgeldrechner-was-zu-schnelles-fahren-kostet-a-244772.html" rel="follow">
+                    Bußgeldrechner </a>
+</span>
+</li>
+
+        <li>
+<span> <a href="https://www.spiegel.de/auto/aktuell/firmenwagenrechner-geldwerten-vorteil-und-steuern-berechnen-a-519713.html" rel="follow">
+                    Firmenwagenrechner </a>
+</span>
+</li>
+
+
+
+    </ul>
+
+
+    <!-- JOB -->
+    <ul>
+        <li>
+<h5>JOB</h5>
+</li>
+        <li>
+<span> <a href="https://www.spiegel.de/wirtschaft/service/brutto-netto-rechner-was-von-ihrem-lohn-noch-uebrig-bleibt-a-223811.html" rel="follow">
+                    Brutto-Netto-Rechner </a>
+</span>
+</li>
+
+        <li>
+<span> <a href="https://www.spiegel.de/lebenundlernen/uni/studium-tipps-und-hilfe-fuer-uni-und-studentenleben-a-640620.html" rel="follow">
+                    Uni-Tools </a>
+</span>
+</li>
+
+        <li>
+<span> <a href="http://pubads.g.doubleclick.net/gampad/clk?id=4529074308&iu=/6032/Clickcommand/clickcommand" rel="follow" title="Anzeige">
+                    Jobsuche </a>
+</span>
+</li>
+
+    </ul>
+
+    <!-- FINANZEN -->
+    <ul x-class="partner-finanzen">
+        <li>
+<h5>FINANZEN</h5>
+</li>
+        <li>
+<span> <a href="https://boersen.manager-magazin.de/spon/devisen_uebersicht.htn#rechner" rel="follow">
+                    Währungsrechner </a>
+</span>
+</li>
+        
+
+        <li>
+<span> <a href="https://www.spiegel.de/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html " rel="follow">
+                    Versicherungen </a>
+</span>
+</li>
+    </ul>
+
+
+
+</div>
+
+<div class="footer-partner clearfix">
+
+
+    <!-- FREIZEIT 1 -->
+    <ul class="partner-freizeit clearfix" style="margin-left: 0;">
+        <li class="partner-freizeit-headline">
+<h5>FREIZEIT</h5>
+</li>
+        <li style="margin-right: 0; width: 36%;">
+            <ul>
+                <li>
+<span> <a href="http://pubads.g.doubleclick.net/gampad/clk?id=4892459712&iu=/6032/Clickcommand/clickcommand" rel="follow" title="Anzeige">
+                            Eurojackpot </a>
+</span>
+</li>
+
+                <li>
+<span> <a href="http://pubads.g.doubleclick.net/gampad/clk?id=4893019619&iu=/6032/Clickcommand/clickcommand" rel="follow" title="Anzeige">
+                            Lottozahlen </a>
+</span>
+</li>
+
+                <li>
+<span> <a href="http://pubads.g.doubleclick.net/gampad/clk?id=4893017510&iu=/6032/Clickcommand/clickcommand" rel="follow" title="Anzeige">
+                            Glücksspirale</a>
+</span>
+</li>
+
+                
+
+
+            </ul>
+        </li>
+
+
+        <li style="width: 280px;">
+            <!-- FREIZEIT 2 -->
+            <ul>
+                
+<li>
+<span> <a href="https://sportwetten.spiegel.de" rel="follow" title="Anzeige">
+                            Sportwetten </a>
+</span>
+</li>
+<li>
+<span> <a href="https://gutscheine.spiegel.de/" rel="follow" title="Anzeige">
+                            Gutscheine </a>
+</span>
+</li>
+
+                <li>
+<span> <a href="http://www.amazon.de/b/ref=amb_link_51544565_1?ie=UTF8&node=4206085031&pf_rd_m=A3JWKAKR8XB7XF&pf_rd_s=center-1&pf_rd_r=0Y7KSJRQ0GD1TQVBZFBX&pf_rd_t=1401&pf_rd_p=515157807&pf_rd_i=1000127753&tag=wwwspiegelde-21" rel="follow" title="Anzeige">
+                            Bücher bestellen </a>
+</span>
+</li>
+
+                
+
+            </ul>
+        </li>
+
+        <li style="width: auto;">
+            <!-- FREIZEIT 3 -->
+            <ul>
+
+<li>
+<span> <a href="http://pubads.g.doubleclick.net/gampad/clk?id=4528590652&iu=/6032/Clickcommand/clickcommand" rel="nofollow" title="Anzeige">
+                            Arztsuche </a>
+</span>
+</li>
+
+                <li>
+<span> <a href="https://www.spiegel.de/lebenundlernen/schule/ferien-schulferien-und-feiertage-a-193925.html" rel="follow">
+                            Ferientermine </a>
+</span>
+</li>
+                <li>
+<span> <a href="https://www.spiegel.de/netzwelt/games/spielen-mit-spiegel-online-sudoko-kenken-quizze-raetsel-a-1058223.html" rel="follow">
+                            Spiele </a>
+</span>
+</li>
+
+            </ul>
+
+        </li>
+
+    </ul>
+
+
+    <!-- TESTZWECKE -->
+    <!-- html_111141 -->
+<script type="text/javascript">
+//
+if ('safari' in window && 'pushNotification' in window.safari) {
+(function(){
+var pushNotification = window.safari.pushNotification,
+     webserviceUrl = "https://www.spiegel.de/push/apns/macos",
+     websitePushID = "web.de.spiegel.spon";
+function checkRemotePermission(permissionData) {
+    if (permissionData.permission === 'default') {
+        pushNotification.requestPermission(webserviceUrl, websitePushID, {}, checkRemotePermission);
+    }
+}
+checkRemotePermission(pushNotification.permission(websitePushID));
+}());
+}
+//
+</script>
+
+</div>
+
+<style media="screen" type="text/css">
+.grid-homepage .spakademiebox {
+    margin-top: 0 !important;
+}
+</style><div class="spiegel-group">
+		<h4>SPIEGEL GRUPPE</h4>
+		<ul class="list-float clearfix">  
+			<li class="list-float-left"><a href="https://abo.spiegel.de/?b=SPOHFOOTER&amp;utm_source=spon&amp;utm_medium=text&amp;utm_content=SPOHFOOTER&amp;utm_campaign=abbinder" target="_blank">Abo</a></li>  
+			<li class="list-float-left"><span>&#45;</span><a href="https://www.amazon.de/b?ie=UTF8&amp;node=2478999031&amp;tag=wwwspiegelde-21" target="_blank">Shop</a></li> 
+			<li class="list-float-left"><span>&#45;</span><a href="https://www.bento.de/" target="_blank">bento</a></li>
+			<li class="list-float-left"><span>&#45;</span><a href="https://www.manager-magazin.de/" target="_blank">manager&nbsp;magazin</a></li>
+			<li class="list-float-left"><span>&#45;</span><a href="https://www.harvardbusinessmanager.de/" target="_blank">Harvard Business Manager</a></li>
+			<li class="list-float-left"><span>&#45;</span><a href="https://www.buchreport.de/" target="_blank">buchreport</a></li>
+			<li class="list-float-left"><span>&#45;</span><a href="https://spiegel.media/" target="_blank">Werbung</a></li>
+			<li class="list-float-left"><span>&#45;</span><a href="http://www.spiegelgruppe.de/spiegelgruppe/home.nsf/Navigation/8F79C171C0A9F35EC1257B1000367A40?OpenDocument" target="_blank">Jobs</a></li>
+			<li class="list-float-left"><span>&#45;</span><a href="https://www.planestream.de/" target="_blank">Planestream</a></li>
+		</ul>
+	</div>
+		
+	<!-- html_126372 -->
+<!--DER SPIEGEL-->
+
+	<div class="slider js-slider-footer">
+	<ul class="bxslider">
+
+<li class="slider_item slider_5">
+					<h4>DER SPIEGEL</h4> <a href="https://magazin.spiegel.de">
+						<img alt="DER SPIEGEL" class="js-lazy" data-original="https://magazin.spiegel.de/EpubDelivery/image/title/SP/2019/12/" height="186"/>
+				</a>
+				</li>				
+
+
+<!--FRAUEN-SPIEGEL-->
+
+<!--li class="slider_item slider_5">
+					<h4>DER SPIEGEL</h4> <a href="https://magazin.spiegel.de/SP/2018/54/index.html">
+						<img
+						class="js-lazy"
+						data-original="https://www.spiegel.de/images/image-1346601-magazincover150-sfmw.gif"
+						alt="DER SPIEGEL" height="186" />
+				</a>
+				</li-->
+
+
+<!--SPIEGEL WISSEN-->
+
+<li class="slider_item slider_5">
+					<h4>SPIEGEL WISSEN</h4> <a href="http://abo.spiegel.de/de/c/spiegel-wissen?b=SPOHCOVER&utm_source=spon&utm_medium=textsc&utm_content=SPOHCOVER&utm_campaign=heftgalerie" target="_blank"> <img alt="SPIEGEL WISSEN" class="js-lazy" data-original="https://magazin.spiegel.de/EpubDelivery/image/title/SPWI/2019/1/140.jpg" height="186"/>
+				</a>
+				</li>
+
+
+<!--DEIN SPIEGEL-->
+
+				<li class="slider_item slider_5">
+					<h4>Dein SPIEGEL</h4> <a href="http://abo.spiegel.de/de/c/dein-spiegel?b=SPOHCOVER&utm_source=spon&utm_medium=textsc&utm_content=SPOHCOVER&utm_campaign=heftgalerie" target="_blank"> <img alt="DEIN SPIEGEL" class="js-lazy" data-original="https://magazin.spiegel.de/EpubDelivery/image/title/DEIN/2019/4/140" height="186"/>
+				</a>
+			</li>
+
+<!--SPIEGEL GESCHICHTE-->
+
+<li class="slider_item slider_5">
+					<h4>SPIEGEL GESCHICHTE</h4> <a href="http://abo.spiegel.de/de/c/spiegel-geschichte?b=SPOHCOVER&utm_source=spon&utm_medium=textsc&utm_content=SPOHCOVER&utm_campaign=heftgalerie" target="_blank"> <img alt="SPIEGEL GESCHICHTE" class="js-lazy" data-original="https://magazin.spiegel.de/EpubDelivery/image/title/SPGE/2019/1/140" height="186"/>
+				       </a>
+                                       </li>
+
+<!--LITERATUR SPIEGEL-->
+
+				<li class="slider_item slider_5">
+					<h4>LITERATUR SPIEGEL</h4>
+					<a href="https://www.spiegel.de/spiegel/literaturspiegel/index-2019-1.html">
+						<img alt="LiteraturSPIEGEL" class="js-lazy" data-original="https://magazin.spiegel.de/EpubDelivery/image/title/LISP/2019/1/140" height="186"/>
+					</a>
+				        </li>
+
+<!--SPIEGEL CHRONIK-->
+
+<li class="slider_item slider_5">
+					<h4>SPIEGEL CHRONIK</h4> <a href="https://magazin.spiegel.de/SPJC/2018/1/index.html">
+						<img alt="DER SPIEGEL" class="js-lazy" data-original="https://www.spiegel.de/images/image-1370655-thumbflex-tiyv.jpg " height="186"/>
+				</a>
+				</li>
+
+
+<!--SPIEGEL COACHING-->
+	
+<li class="slider_item slider_5">
+					<h4>SPIEGEL COACHING</h4> <a href="https://www.amazon.de/dp/B07KZHBPTW/ref=nosim?tag=wwwspiegelde-21" target="_blank"> <img alt="SPIEGEL Edition Geschichte" class="js-lazy" data-original="https://www.spiegel.de/images/image-1377664-custom-nbee.jpg " height="186"/>
+				</a>
+                                </li>
+
+
+
+<!--SPIEGEL EXPEDITION-->
+
+<li class="slider_item slider_5">
+                                                               <h4>SPIEGEL EXPEDITION</h4> <a href="https://www.amazon.de/dp/B07GWGL7D4/ref=nosim?tag=wwwspiegelde-21" target="_blank"> <img alt="SPIEGEL EXPEDITION" class="js-lazy" data-original="https://magazin.spiegel.de/EpubDelivery/image/title/SPEXP/2018/2/140" height="186"/>
+				</a>
+				</li>
+
+	
+
+<!--UNI SPIEGEL-->
+
+<li class="slider_item slider_5">
+					<h4>UNI SPIEGEL</h4>
+					<a href="https://www.spiegel.de/spiegel/unispiegel/index-2019-1.html">
+						<img alt="UNI SPIEGEL" class="js-lazy" data-original="https://magazin.spiegel.de/EpubDelivery/image/title/USP/2019/1/140" height="186"/>
+					</a>
+		         		</li>
+
+
+
+
+		
+<!--SPIEGEL BIOGRAFIE-->
+
+				
+<li class="slider_item slider_5">
+					<h4>SPIEGEL BIOGRAFIE</h4> <a href="http://abo.spiegel.de/de/c/spiegel-biografie?b=SPOHCOVER&utm_source=spon&utm_medium=textsb&utm_content=SPOHCOVER&utm_campaign=heftgalerie" target="_blank"> <img alt="SPIEGEL BIOGRAFIE" class="js-lazy" data-original="https://www.spiegel.de/images/image-1364780-thumbflex-tiyv.jpg" height="186"/>
+				
+                                      </a>
+                                       </li>
+							
+<!--Dein SPIEGEL Extra-->
+                                                    <!--li class="slider_item slider_5">
+					<h4>Dein SPIEGEL Extra</h4> <a
+					href="https://www.amazon.de/dp/B01KZNM60I/ref=nosim?tag=wwwspiegelde-21"> <img
+						class="js-lazy"
+						data-original="https://www.spiegel.de/images/image-1066403-custom-pguo.jpg"
+						alt="DEIN SPIEGEL" height="186" />
+				</a>
+				</li-->
+
+<!--Edition Wissen-->
+                                                   <!-- li class="slider_item slider_5">
+					<h4>EDITION WISSEN</h4>
+					<a href="https://www.amazon.de/dp/B074JSB16Z/ref=nosim?tag=wwwspiegelde-21" target="_blank">
+						<img 
+						class="js-lazy"
+						data-original="https://www.spiegel.de/images/image-1189085-thumbflex-yegb.jpg" height="186" />
+				</a>
+				</li -->
+
+					
+
+
+	</ul>
+</div><div class="footer-sub-nav clearfix">
+		<ul class="footer-social-media list-inline-block">
+			<li><i class="fa fa-twitter-square fa-lg fa-inverse"></i><a target="_blank" href="https://twitter.com/intent/follow?screen_name=SPIEGELONLINE" title="Twitter">Twitter</a></li>
+			<li><i class="fa fa-facebook-official fa-lg fa-inverse"></i><a target="_blank" href="https://www.facebook.com/spiegelonline" title="Facebook">Facebook</a></li>
+		</ul>
+		
+		
+		<ul class="footer-meta-nav list-inline-block">  
+			<li><a href="https://www.spiegel.de/impressum">Impressum</a></li> 
+			<li><span>&#45;</span><a href="https://www.spiegel.de/dienste/a-639126.html">Datenschutz</a></li>
+			<li><span>&#45;</span><a href="https://www.spiegel.de/anb">Nutzungsbedingungen</a></li> 
+			<li><span>&#45;</span><a href="https://www.spiegel.de/extra/a-853891.html">Nutzungsrechte</a></li>
+			<li><span>&#45;</span><a href="https://www.spiegel.de/kontakt">Kontakt</a></li> 
+			<li><span>&#45;</span><a href="https://www.spiegel.de/hilfe">Hilfe</a></li> 
+		</ul>
+	</div>
+</div> </div> </div> <div id="spColumnAd">
+	<div id="qcRight">
+		<div class="gujAd skyscraper" id="skyscraper_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.writeAdScript('skyscraper_1');
+	</script>
+</div>
+<br class="clearfix" />
+	</div>
+</div>
+</div> <div id="parsely-root" style="display: none">
+  <span id="parsely-cfg" data-parsely-site="qs.spiegel.de"></span>
+</div>
+
+<script type='text/javascript'>
+<!--
+	var p = {};
+	if (!p || !p.parsely || !p.parsely.ignore) {
+		SPLTCS.parsely.inject();
+	}
+	if (!p || !p.meetrics || !p.meetrics.ignore) {
+		SPLTCS.meetrics.inject();
+	}
+// -->
+</script><script type="text/javascript">
+	<!--
+		
+			spAutoOpenSendForm('de','mail');
+		
+		spGotoBlogComment();
+	// -->
+	</script> 
+
+<script type='text/javascript'>
+	if (typeof ADI != 'undefined') ADI.finalize();
+
+	!(function() {
+		var gujadlinkJS = spnetENV_SERVER + '/staticgen/data_imports/emstm/spiegel-www/' + (window.location.hash.indexOf('gujAd=1') > -1 ? 'preview.js' : 'live.js');	
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = 'true';
+		s.src = gujadlinkJS;
+		document.body.appendChild(s);						
+	})();	
+</script>
+</body>
+</html>
